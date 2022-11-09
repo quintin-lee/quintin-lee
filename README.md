@@ -1,3 +1,5 @@
+[![MasterHead](https://github.com/quintin-lee/quintin-lee/blob/main/header.png)](https://github.com/quintin-lee/quintin-lee.git)
+
 ## Check out my stats
 <p>Please keep in mind these are just my most used languages within my Repos on GitHub and do not indicate my skill in the language.</p>
 <!-- <p align='center'><img src='https://komarev.com/ghpvc/?username=quintin-lee' /></p> -->
