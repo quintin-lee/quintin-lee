@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Quintin's GitHub stats](https://github-readme-stats.vercel.app/api?username=quintin-lee)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **quintin-lee/quintin-lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
