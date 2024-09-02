@@ -9,7 +9,7 @@
 <a href='https://github.com/quintin-lee'>
   <img align='right' width='45%' src='https://github-readme-stats.vercel.app/api?username=quintin-lee&theme=merko&show_icons=true'>
 </a>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br>
 
 <!--
 **quinein-lee/quintin-lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
