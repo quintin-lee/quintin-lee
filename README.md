@@ -2,15 +2,13 @@
 
 ## 💡 Check out my stats
 <p>Please keep in mind these are just my most used languages within my Repos on GitHub and do not indicate my skill in the language.</p>
-<!-- <p align='center'><img src='https://komarev.com/ghpvc/?username=quintin-lee' /></p> -->
-<a href='https://github.com/quintin-lee'>
-  <img align='left' width='45%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=quintin-lee&theme=merko&layout=compact&hide=python,powershell'>
+<a href="https://github.com/quintin-lee">
+  <img align="left" width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=quintin-lee&theme=merko&layout=compact&hide=python,powershell" />
 </a>
-<a href='https://github.com/quintin-lee'>
-  <img align='right' width='45%' src='https://github-readme-stats.vercel.app/api?username=quintin-lee&theme=merko&show_icons=true'>
+<a href="https://github.com/quintin-lee">
+  <img align="right" width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=quintin-lee&theme=merko&show_icons=true" />
 </a>
 <br><br><br><br><br><br><br><br><br><br><br>
-
 <!--
 **quinein-lee/quintin-lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
