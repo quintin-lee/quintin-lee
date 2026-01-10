@@ -2,13 +2,28 @@
 
 ## 💡 Check out my stats
 <p>Please keep in mind these are just my most used languages within my Repos on GitHub and do not indicate my skill in the language.</p>
+<table>
+<tr>
+<td>
 <a href="https://github.com/quintin-lee">
-  <img align="left" width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=quintin-lee&theme=merko&layout=compact&hide=python,powershell" />
+  <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=quintin-lee&theme=merko&layout=compact&hide=python,powershell" />
 </a>
+</td>
+<td>
 <a href="https://github.com/quintin-lee">
-  <img align="right" width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=quintin-lee&theme=merko&show_icons=true" />
+  <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=quintin-lee&theme=merko&show_icons=true" />
 </a>
-<br><br><br><br><br><br><br><br><br><br>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://github.com/quintin-lee">
+  <img width="100%" src="https://streak-stats.demolab.com/?user=quintin-lee&theme=merko" />
+</a>
+</td>
+<td></td>
+</tr>
+</table>
 
 <p>3D visualization of my GitHub contributions.</p>
 <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph - Night View" />
