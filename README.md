@@ -10,11 +10,7 @@
 </a>
 <br><br><br><br><br><br><br><br><br><br><br>
 
-## � 3D Contribution Graph
-<p>3D visualization of my GitHub contributions.</p>
-<img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" />
-
-## �👋 About Me
+## 👋 About Me
 Hi there! I'm Quintin Lee, a developer passionate about Neovim customization, embedded systems, and open-source tools. I enjoy configuring development environments, working on STM32 projects, and contributing to the community.
 
 ## 🚀 Skills
