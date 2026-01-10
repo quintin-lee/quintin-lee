@@ -24,7 +24,7 @@ Hi there! I'm Quintin Lee, a developer passionate about Neovim customization, em
 Here are my latest updated projects:
 - [quintin-lee](https://github.com/quintin-lee/quintin-lee): No description
 - [ssh-manager](https://github.com/quintin-lee/ssh-manager): No description
-- [NVCode](https://github.com/quintin-lee/NVCode): neovim config
+- [NVCode](https://github.com/quintin-lee/NVCode): neovim 配置
 - [penv](https://github.com/quintin-lee/penv): Python venv manager
 - [header.nvim](https://github.com/quintin-lee/header.nvim): No description
 - [openscad-treesitter.nvim](https://github.com/quintin-lee/openscad-treesitter.nvim): No description
