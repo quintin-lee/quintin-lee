@@ -9,20 +9,6 @@
   <img align="right" width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=quintin-lee&theme=merko&show_icons=true" />
 </a>
 <br><br><br><br><br><br><br><br><br><br><br>
-<!--
-**quinein-lee/quintin-lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ## 👋 About Me
 Hi there! I'm Quintin Lee, a developer passionate about Neovim customization, embedded systems, and open-source tools. I enjoy configuring development environments, working on STM32 projects, and contributing to the community.
