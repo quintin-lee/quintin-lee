@@ -4,24 +4,31 @@
 <p>Please keep in mind these are just my most used languages within my Repos on GitHub and do not indicate my skill in the language.</p>
 <table>
 <tr>
-<td>
-<a href="https://github.com/quintin-lee">
-  <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=quintin-lee&theme=merko&layout=compact&hide=python,powershell" />
-</a>
-</td>
-<td>
+<td width="50%">
 <a href="https://github.com/quintin-lee">
   <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=quintin-lee&theme=merko&show_icons=true" />
 </a>
 </td>
-</tr>
-<tr>
-<td>
+<td width="50%">
 <a href="https://github.com/quintin-lee">
   <img width="100%" src="https://streak-stats.demolab.com/?user=quintin-lee&theme=merko" />
 </a>
 </td>
+</tr>
+<tr>
+<td width="50%">
+<a href="https://github.com/quintin-lee">
+  <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=quintin-lee&theme=merko&layout=compact&hide=python,powershell" />
+</a>
+</td>
 <td></td>
+</tr>
+<tr>
+<td colspan="2">
+<a href="https://github.com/quintin-lee">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=quintin-lee&theme=merko" />
+</a>
+</td>
 </tr>
 </table>
 
