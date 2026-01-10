@@ -10,6 +10,9 @@
 </a>
 <br><br><br><br><br><br><br><br><br><br><br>
 
+<p>3D visualization of my GitHub contributions (Night View).</p>
+<img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph - Night View" />
+
 ## 👋 About Me
 Hi there! I'm Quintin Lee, a developer passionate about Neovim customization, embedded systems, and open-source tools. I enjoy configuring development environments, working on STM32 projects, and contributing to the community.
 
