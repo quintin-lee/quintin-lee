@@ -24,6 +24,32 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## 👋 About Me
+Hi there! I'm Quintin Lee, a developer passionate about Neovim customization, embedded systems, and open-source tools. I enjoy configuring development environments, working on STM32 projects, and contributing to the community.
+
+## 🚀 Skills
+- **Languages**: Python, C/C++, Lua
+- **Frameworks**: Neovim plugins
+- **Tools**: Git, VS Code, Docker, Neovim, Vim, Tmux, Zsh, Fzf, SSH
+- **Databases**: MongoDB, MySQL, Informix
+- **Other**: Embedded systems (STM32), Linux configuration
+
+## 📂 Projects
+Here are some of my notable projects:
+- [dotfiles](https://github.com/quintin-lee/dotfiles): zsh、tmux、vim、git、fzf 等配置
+- [HumanHealthTester](https://github.com/quintin-lee/HumanHealthTester): 人体健康检测仪
+- [makeself-ui](https://github.com/quintin-lee/makeself-ui): UI for makeself
+- [NVCode](https://github.com/quintin-lee/NVCode): neovim 配置
+- [penv](https://github.com/quintin-lee/penv): Python venv manager
+- [spacevim-Install](https://github.com/quintin-lee/spacevim-Install): spacevim 安装脚本
+- [STM32](https://github.com/quintin-lee/STM32): repos for stm32 code
+
+## 🎯 Interests
+- Open-source contributions
+- Machine learning
+- Gaming
+- Traveling
+
 ## 📬 Contact Me
 
 - **Email**: [2449164582@qq.com](mailto:2449164582@qq.com)
