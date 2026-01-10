@@ -8,7 +8,7 @@
 <a href="https://github.com/quintin-lee">
   <img align="right" width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=quintin-lee&theme=merko&show_icons=true" />
 </a>
-<br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
 
 <p>3D visualization of my GitHub contributions.</p>
 <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph - Night View" />
