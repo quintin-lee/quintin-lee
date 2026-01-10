@@ -1,0 +1,45 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # 每天午夜运行
+  workflow_dispatch:  # 允许手动触发
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Update README
+        run: |
+          python3 -c "
+          import requests
+          import re
+          repos = requests.get('https://api.github.com/users/quintin-lee/repos').json()
+          non_fork = [r for r in repos if not r['fork']]
+          sorted_repos = sorted(non_fork, key=lambda x: x['updated_at'], reverse=True)[:7]
+          projects_lines = ['## 📂 Projects', 'Here are my latest updated projects:']
+          for r in sorted_repos:
+              desc = r.get('description') or 'No description'
+              projects_lines.append(f'- [{r[\"name\"]}]({r[\"html_url\"]}): {desc}')
+          projects_lines.append('')
+          projects_section = '\n'.join(projects_lines)
+          with open('README.md', 'r') as f:
+              content = f.read()
+          # 找到Projects部分并替换
+          start = content.find('## 📂 Projects')
+          end = content.find('## 🎯 Interests')
+          if start != -1 and end != -1:
+              new_content = content[:start] + projects_section + '\n' + content[end:]
+              with open('README.md', 'w') as f:
+                  f.write(new_content)
+          "
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git commit -m "Update latest projects" || echo "No changes to commit"
+          git push
