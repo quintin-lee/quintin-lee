@@ -33,7 +33,7 @@
 </td>
 <td width="50%">
 <a href="https://github.com/quintin-lee">
-  <img width="100%" src="https://stats.justsong.cn/api/leetcode?username=quintin-lee&cn=true&theme=merko" />
+  <img width="100%" src="https://stats.justsong.cn/api/csdn?username=quintin-lee&cn=true&theme=merko" />
 </a>
 </td>
 </tr>
