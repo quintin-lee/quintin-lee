@@ -1,5 +1,15 @@
 [![MasterHead](https://github.com/quintin-lee/quintin-lee/blob/main/header.png)](https://github.com/quintin-lee/quintin-lee.git)
 
+## 📊 Activity statistics
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<a href="https://github.com/quintin-lee">
+  <img width="100%" src="https://github-immortality.vercel.app/api?username=quintin-lee" />
+</a>
+
 ## 💡 Check out my stats
 <p>Please keep in mind these are just my most used languages within my Repos on GitHub and do not indicate my skill in the language.</p>
 <table>
