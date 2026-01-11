@@ -21,7 +21,11 @@
   <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=quintin-lee&theme=merko&layout=compact&hide=python,powershell" />
 </a>
 </td>
-<td></td>
+<td width="50%">
+<a href="https://github.com/quintin-lee">
+  <img width="100%" src="https://stats.justsong.cn/api/leetcode?username=quintin-lee&cn=true&theme=merko" />
+</a>
+</td>
 </tr>
 <tr>
 <td colspan="2">
