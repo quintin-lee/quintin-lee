@@ -11,7 +11,7 @@
 </td>
 <td width="50%">
 <a href="https://github.com/quintin-lee">
-  <img width="100%" src="https://streak-stats.demolab.com/?user=quintin-lee&theme=merko" />
+  <img width="100%" src="https://streak-stats.vercel.app/?user=quintin-lee&theme=merko" />
 </a>
 </td>
 </tr>
