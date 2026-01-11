@@ -7,7 +7,7 @@
 <tr>
 <td colspan="2">
 <a href="https://github.com/quintin-lee">
-  <img width="100%" src="https://github-immortality.vercel.app/api?username=quintin-lee" />
+  <img width="100%" src="https://github-immortality.vercel.app/api?username=quintin-lee&_v=1" />
 </a>
 
 ## 💡 Check out my stats
