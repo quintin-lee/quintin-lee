@@ -62,8 +62,8 @@ Hi there! I'm Quintin Lee, a developer passionate about Neovim customization, em
 ## 📂 Projects
 Here are my latest updated projects:
 - [quintin-lee](https://github.com/quintin-lee/quintin-lee): No description
-- [NVCode](https://github.com/quintin-lee/NVCode): neovim 配置
 - [dotfiles](https://github.com/quintin-lee/dotfiles): zsh、tmux、vim、git、fzf 等配置
+- [NVCode](https://github.com/quintin-lee/NVCode): neovim 配置
 - [header.nvim](https://github.com/quintin-lee/header.nvim): No description
 - [ssh-manager](https://github.com/quintin-lee/ssh-manager): 基于 expect 工具实现 SSH 自动登录服务器，管理服务器 SSH 连接。 支持密码认证和密钥认证等多种方式，提供了交互式的终端界面。
 - [penv](https://github.com/quintin-lee/penv): Python venv manager
