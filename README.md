@@ -61,8 +61,8 @@ Hi there! I'm Quintin Lee, a developer passionate about Neovim customization, em
 
 ## 📂 Projects
 Here are my latest updated projects:
-- [quintin-lee](https://github.com/quintin-lee/quintin-lee): No description
 - [csilk](https://github.com/quintin-lee/csilk): A lightweight, high-performance HTTP web framework written in C and built on top of libuv, llhttp, and cJSON.
+- [quintin-lee](https://github.com/quintin-lee/quintin-lee): No description
 - [MiniRTOS-](https://github.com/quintin-lee/MiniRTOS-): 针对 8051 微控制器设计的轻量级**抢占式**实时操作系统，通过 HAL 层支持跨平台移植 (8051/STM32)。
 - [NVCode](https://github.com/quintin-lee/NVCode): neovim 配置
 - [dotfiles](https://github.com/quintin-lee/dotfiles): zsh、tmux、vim、git、fzf 等配置
