@@ -61,13 +61,13 @@ Hi there! I'm Quintin Lee, a developer passionate about Neovim customization, em
 
 ## 📂 Projects
 Here are my latest updated projects:
+- [cdsl](https://github.com/quintin-lee/cdsl): An AI-powered DSL rule engine framework in C with three-layer architecture (Syntax → Abstract → Execution), natural language translation, multi-metric scoring, and tri-state audit results.
 - [csilk](https://github.com/quintin-lee/csilk): A lightweight, high-performance HTTP web framework written in C and built on top of libuv, llhttp, and cJSON.
 - [quintin-lee](https://github.com/quintin-lee/quintin-lee): No description
 - [MiniRTOS-](https://github.com/quintin-lee/MiniRTOS-): 针对 8051 微控制器设计的轻量级**抢占式**实时操作系统，通过 HAL 层支持跨平台移植 (8051/STM32)。
 - [NVCode](https://github.com/quintin-lee/NVCode): neovim 配置
 - [dotfiles](https://github.com/quintin-lee/dotfiles): zsh、tmux、vim、git、fzf 等配置
 - [header.nvim](https://github.com/quintin-lee/header.nvim): No description
-- [penv](https://github.com/quintin-lee/penv): Python venv manager
 
 ## 🎯 Interests
 - Neovim customization and plugins
