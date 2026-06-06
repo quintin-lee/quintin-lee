@@ -48,6 +48,12 @@
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=quintin-lee&theme=tokyonight&no-bg=true&margin-w=15" />
+  <br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/quintin-lee/quintin-lee/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/quintin-lee/quintin-lee/output/github-contribution-grid-snake.svg">
+    <img src="https://raw.githubusercontent.com/quintin-lee/quintin-lee/output/github-contribution-grid-snake.svg" alt="github contribution grid snake animation" />
+  </picture>
 </div>
 
 ## 🛠️ My Tech Toolbox
@@ -72,10 +78,6 @@
     </td>
   </tr>
 </table>
-
-<div align="center">
-  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" />
-</div>
 
 ## 📂 Featured Projects
 <!-- START_SECTION:projects -->
