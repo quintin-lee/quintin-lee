@@ -93,6 +93,15 @@
 - [header.nvim](https://github.com/quintin-lee/header.nvim): No description
 <!-- END_SECTION:projects -->
 
+## ⚡ Recent Activity
+<!--START_SECTION:activity-->
+- 🚀 Pushed 0 commit(s) to [quintin-lee/quintin-lee](https://github.com/quintin-lee/quintin-lee) (2026-06-06)
+- 🚀 Pushed 0 commit(s) to [quintin-lee/quintin-lee](https://github.com/quintin-lee/quintin-lee) (2026-06-06)
+- 🚀 Pushed 0 commit(s) to [quintin-lee/quintin-lee](https://github.com/quintin-lee/quintin-lee) (2026-06-06)
+- 🚀 Pushed 0 commit(s) to [quintin-lee/quintin-lee](https://github.com/quintin-lee/quintin-lee) (2026-06-06)
+- 🚀 Pushed 0 commit(s) to [quintin-lee/quintin-lee](https://github.com/quintin-lee/quintin-lee) (2026-06-06)
+<!--END_SECTION:activity-->
+
 ## 🎯 Beyond Coding
 <p>
 I'm a developer passionate about Neovim customization, embedded systems (STM32), and Linux environment configuration. When I'm not coding, you can find me traveling or gaming.
