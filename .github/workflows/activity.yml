@@ -21,5 +21,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
+          GH_USERNAME: quintin-lee
           COMMIT_MSG: "chore: update recent activity"
           MAX_LINES: 5
