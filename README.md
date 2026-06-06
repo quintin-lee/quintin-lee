@@ -47,7 +47,10 @@
 </table>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=quintin-lee&theme=tokyonight&no-bg=true&margin-w=15" />
+  <!-- START_SECTION:achievements -->
+  <!-- Achievements will be generated here by GitHub Metrics -->
+  <!-- END_SECTION:achievements -->
+  
   <br/>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/quintin-lee/quintin-lee/output/github-contribution-grid-snake-dark.svg">
