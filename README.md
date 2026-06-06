@@ -99,4 +99,7 @@ I'm a developer passionate about Neovim customization, embedded systems (STM32),
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=quintin-lee&theme=github&bg_color=00000000&hide_border=true">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=quintin-lee&theme=tokyonight&bg_color=00000000&hide_border=true" width="100%" />
   </picture>
+
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=quintin-lee&color=3382ed&style=flat-square&label=PROFILE+VIEWS" />
 </div>
