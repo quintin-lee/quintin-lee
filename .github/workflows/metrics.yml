@@ -18,26 +18,27 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
         
-      - name: Achievements
+      - name: Achievements & Activity
         uses: lowlighter/metrics@latest
         with:
-          filename: github-metrics-achievements.svg
+          filename: github-metrics-combined.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           base: ""
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_achievements_threshold: C
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 0
+          plugin_activity_filter: all
           
-      - name: Update README with Achievements
+      - name: Update README with Metrics
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
           git pull --rebase origin main
-          # This step is just to ensure the file is generated, 
-          # Metrics action handles its own output usually, 
-          # but we want to display it in README.
-          # The image will be at: github-metrics-achievements.svg
-          sed -i 's|<!-- START_SECTION:achievements -->.*<!-- END_SECTION:achievements -->|<!-- START_SECTION:achievements -->\n<img src=\"github-metrics-achievements.svg\" />\n<!-- END_SECTION:achievements -->|' README.md
-          git add README.md github-metrics-achievements.svg || echo "No changes"
-          git commit -m "chore: update achievements metrics" || echo "No changes to commit"
+          # Update the achievements placeholder
+          sed -i 's|<!-- START_SECTION:achievements -->.*<!-- END_SECTION:achievements -->|<!-- START_SECTION:achievements -->\n<img src=\"github-metrics-combined.svg\" />\n<!-- END_SECTION:achievements -->|' README.md
+          git add README.md github-metrics-combined.svg || echo "No changes"
+          git commit -m "chore: update metrics (achievements & activity)" || echo "No changes to commit"
           git push
