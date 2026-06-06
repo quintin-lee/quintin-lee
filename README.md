@@ -45,3 +45,16 @@
     </td>
   </tr>
 </table>
+
+## 📂 Featured Projects
+<!-- START_SECTION:projects -->
+<!-- END_SECTION:projects -->
+
+## 🎯 Beyond Coding
+<p>
+I'm a developer passionate about Neovim customization, embedded systems (STM32), and Linux environment configuration. When I'm not coding, you can find me traveling or gaming.
+</p>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=quintin-lee&theme=tokyonight" width="100%" />
+</div>
