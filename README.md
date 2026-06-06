@@ -46,6 +46,29 @@
   </tr>
 </table>
 
+## 🛠️ My Tech Toolbox
+
+<table align="center">
+  <tr>
+    <td align="center" width="25%">
+      <b>OS & Terminal</b><br/>
+      <img src="https://skillicons.dev/icons?i=linux,apple,zsh,tmux" />
+    </td>
+    <td align="center" width="25%">
+      <b>Editors</b><br/>
+      <img src="https://skillicons.dev/icons?i=neovim,vscode" />
+    </td>
+    <td align="center" width="25%">
+      <b>Embedded & IoT</b><br/>
+      <img src="https://skillicons.dev/icons?i=stm32,arduino,raspberrypi" />
+    </td>
+    <td align="center" width="25%">
+      <b>AI Assistants</b><br/>
+      <img src="https://skillicons.dev/icons?i=chatgpt,bots" />
+    </td>
+  </tr>
+</table>
+
 ## 📂 Featured Projects
 <!-- START_SECTION:projects -->
 - [quintin-lee](https://github.com/quintin-lee/quintin-lee): No description
