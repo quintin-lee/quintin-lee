@@ -112,4 +112,8 @@ I'm a developer passionate about Neovim customization, embedded systems (STM32),
 
   <br/>
   <img src="https://komarev.com/ghpvc/?username=quintin-lee&color=3382ed&style=flat-square&label=PROFILE+VIEWS" />
+
+  <br/><br/>
+  <!--✍️QUOTE-START-->
+  <!--✍️QUOTE-END-->
 </div>

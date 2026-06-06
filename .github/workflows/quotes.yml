@@ -1,0 +1,19 @@
+name: GitHub-Daily-Quotes
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Every day at midnight
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-quotes:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Generate Random Quote
+        uses: denvercoder1/quote-readme@v3
+        with:
+          COMMIT_MESSAGE: "chore: update daily dev quote"
