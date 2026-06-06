@@ -28,27 +28,34 @@ jobs:
           def fetch_activity():
               events = requests.get('https://api.github.com/users/quintin-lee/events/public').json()
               activity_list = []
-              # Map event types to icons/friendly text
-              for event in events[:10]:
+              seen_repos = set() # For deduplication
+              
+              for event in events:
                   created_at = datetime.datetime.strptime(event['created_at'], '%Y-%m-%dT%H:%M:%SZ').strftime('%Y-%m-%d')
                   etype = event['type']
                   repo_name = event['repo']['name']
                   repo_url = f'https://github.com/{repo_name}'
                   
+                  # Deduplicate same event type on same repo in a short window
+                  unique_key = (etype, repo_name)
+                  if unique_key in seen_repos: continue
+                  
                   if etype == 'PushEvent':
-                      commits = len(event['payload'].get('commits', []))
+                      # Count distinct commits across all pushes in this event if multiple
+                      commits = event['payload'].get('size', 0)
+                      if commits == 0: continue # Skip empty pushes (tags etc)
                       activity_list.append(f'- 🚀 Pushed {commits} commit(s) to [{repo_name}]({repo_url}) ({created_at})')
                   elif etype == 'PullRequestEvent':
                       action = event['payload']['action']
                       activity_list.append(f'- 🔀 {action.capitalize()} PR in [{repo_name}]({repo_url}) ({created_at})')
-                  elif etype == 'IssuesEvent':
-                      action = event['payload']['action']
-                      activity_list.append(f'- ❗ {action.capitalize()} issue in [{repo_name}]({repo_url}) ({created_at})')
                   elif etype == 'CreateEvent':
                       ref_type = event['payload']['ref_type']
                       activity_list.append(f'- ✨ Created {ref_type} in [{repo_name}]({repo_url}) ({created_at})')
                   elif etype == 'WatchEvent':
                       activity_list.append(f'- ⭐ Starred [{repo_name}]({repo_url}) ({created_at})')
+                  
+                  if len(activity_list) > 0:
+                      seen_repos.add(unique_key)
                   
                   if len(activity_list) >= 5: break
               return '\n'.join(activity_list) if activity_list else 'No recent public activity.'
