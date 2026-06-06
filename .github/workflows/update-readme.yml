@@ -17,24 +17,59 @@ jobs:
           python3 -c "
           import requests
           import re
-          repos = requests.get('https://api.github.com/users/quintin-lee/repos').json()
-          non_fork = [r for r in repos if not r['fork']]
-          sorted_repos = sorted(non_fork, key=lambda x: x['updated_at'], reverse=True)[:7]
-          projects_lines = []
-          for r in sorted_repos:
-              desc = r.get('description') or 'No description'
-              projects_lines.append(f'- [{r[\"name\"]}]({r[\"html_url\"]}): {desc}')
-          projects_section = '\n'.join(projects_lines)
+          import datetime
+
+          def fetch_projects():
+              repos = requests.get('https://api.github.com/users/quintin-lee/repos').json()
+              non_fork = [r for r in repos if not r['fork']]
+              sorted_repos = sorted(non_fork, key=lambda x: x['updated_at'], reverse=True)[:7]
+              return '\n'.join([f'- [{r[\"name\"]}]({r[\"html_url\"]}): {r.get(\"description\") or \"No description\"}' for r in sorted_repos])
+
+          def fetch_activity():
+              events = requests.get('https://api.github.com/users/quintin-lee/events/public').json()
+              activity_list = []
+              # Map event types to icons/friendly text
+              for event in events[:10]:
+                  created_at = datetime.datetime.strptime(event['created_at'], '%Y-%m-%dT%H:%M:%SZ').strftime('%Y-%m-%d')
+                  etype = event['type']
+                  repo_name = event['repo']['name']
+                  repo_url = f'https://github.com/{repo_name}'
+                  
+                  if etype == 'PushEvent':
+                      commits = len(event['payload'].get('commits', []))
+                      activity_list.append(f'- 🚀 Pushed {commits} commit(s) to [{repo_name}]({repo_url}) ({created_at})')
+                  elif etype == 'PullRequestEvent':
+                      action = event['payload']['action']
+                      activity_list.append(f'- 🔀 {action.capitalize()} PR in [{repo_name}]({repo_url}) ({created_at})')
+                  elif etype == 'IssuesEvent':
+                      action = event['payload']['action']
+                      activity_list.append(f'- ❗ {action.capitalize()} issue in [{repo_name}]({repo_url}) ({created_at})')
+                  elif etype == 'CreateEvent':
+                      ref_type = event['payload']['ref_type']
+                      activity_list.append(f'- ✨ Created {ref_type} in [{repo_name}]({repo_url}) ({created_at})')
+                  elif etype == 'WatchEvent':
+                      activity_list.append(f'- ⭐ Starred [{repo_name}]({repo_url}) ({created_at})')
+                  
+                  if len(activity_list) >= 5: break
+              return '\n'.join(activity_list) if activity_list else 'No recent public activity.'
+
           with open('README.md', 'r') as f:
               content = f.read()
-          new_content = re.sub(
-              r'<!-- START_SECTION:projects -->.*?<!-- END_SECTION:projects -->',
-              f'<!-- START_SECTION:projects -->\n{projects_section}\n<!-- END_SECTION:projects -->',
-              content,
-              flags=re.DOTALL
-          )
+
+          # Update Projects
+          projects_data = fetch_projects()
+          content = re.sub(r'<!-- START_SECTION:projects -->.*?<!-- END_SECTION:projects -->', 
+                          f'<!-- START_SECTION:projects -->\n{projects_data}\n<!-- END_SECTION:projects -->', 
+                          content, flags=re.DOTALL)
+
+          # Update Activity
+          activity_data = fetch_activity()
+          content = re.sub(r'<!--START_SECTION:activity-->.*?<!--END_SECTION:activity-->', 
+                          f'<!--START_SECTION:activity-->\n{activity_data}\n<!--END_SECTION:activity-->', 
+                          content, flags=re.DOTALL)
+
           with open('README.md', 'w') as f:
-              f.write(new_content)
+              f.write(content)
           "
       - name: Commit changes
         run: |
