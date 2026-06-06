@@ -46,6 +46,10 @@
   </tr>
 </table>
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=quintin-lee&theme=tokyonight&no-bg=true&margin-w=15" />
+</div>
+
 ## 🛠️ My Tech Toolbox
 
 <table align="center">
