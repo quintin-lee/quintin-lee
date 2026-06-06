@@ -9,7 +9,7 @@
 </p>
 
 ### 🌌 3D Contribution Landscape
-<img width="100%" src="./profile-3d-contrib/profile-night-view.svg" />
+<img width="85%" src="./profile-3d-contrib/profile-night-view.svg" />
 </div>
 
 ## 📊 Analytics Dashboard
