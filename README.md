@@ -73,6 +73,10 @@
   </tr>
 </table>
 
+<div align="center">
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" />
+</div>
+
 ## 📂 Featured Projects
 <!-- START_SECTION:projects -->
 - [quintin-lee](https://github.com/quintin-lee/quintin-lee): No description
