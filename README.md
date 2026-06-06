@@ -63,5 +63,9 @@ I'm a developer passionate about Neovim customization, embedded systems (STM32),
 </p>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=quintin-lee&theme=tokyonight" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=quintin-lee&theme=tokyonight&bg_color=00000000&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=quintin-lee&theme=github&bg_color=00000000&hide_border=true">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=quintin-lee&theme=tokyonight&bg_color=00000000&hide_border=true" width="100%" />
+  </picture>
 </div>
