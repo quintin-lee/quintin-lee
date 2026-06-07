@@ -98,6 +98,8 @@
 No recent public activity.
 <!--END_SECTION:activity-->
 
+<br/>
+
 ## 🎯 Beyond Coding
 <p>
 I'm a developer passionate about Neovim customization, embedded systems (STM32), and Linux environment configuration. When I'm not coding, you can find me traveling or gaming.
