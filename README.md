@@ -14,8 +14,8 @@
   <br/><br/>
 
   <!-- START_SECTION:achievements -->
-<p><img src="https://img.shields.io/badge/Total%20Stars-53-yellow?style=flat-square&logo=github" /> <img src="https://img.shields.io/badge/Public%20Repos-41-blue?style=flat-square&logo=github" /> <img src="https://img.shields.io/badge/Followers-5-green?style=flat-square&logo=github" /> <img src="https://img.shields.io/badge/Commits%20(Year)-806-purple?style=flat-square&logo=git" /> </p>
-  <!-- END_SECTION:achievements -->
+<p><img src="https://img.shields.io/badge/Total%20Stars-53-yellow?style=flat-square&logo=github" /> <img src="https://img.shields.io/badge/Public%20Repos-41-blue?style=flat-square&logo=github" /> <img src="https://img.shields.io/badge/Followers-5-green?style=flat-square&logo=github" /> <img src="https://img.shields.io/badge/Commits%20(Year)-810-purple?style=flat-square&logo=git" /> </p>
+<!-- END_SECTION:achievements -->
 </div>
 
 ## 📊 Analytics Dashboard
@@ -143,6 +143,6 @@ I'm a developer passionate about Neovim customization, embedded systems (STM32),
   <br/><br/>
 
   <!--✍️QUOTE-START-->
-> The most dangerous phrase in the language is: we've always done it this way. — Grace Hopper
-  <!--✍️QUOTE-END-->
+> The best error message is the one that never shows up. — Thomas Fuchs
+<!--✍️QUOTE-END-->
 </div>
