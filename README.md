@@ -1,26 +1,19 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Quintin%20Lee&fontSize=90&animation=fadeIn&fontAlignY=38" />
-
-# 👋 Welcome to my Digital Garden
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Quintin%20Lee&fontSize=70&animation=fadeIn&fontAlignY=38" />
 
   <p>
     <a href="mailto:2449164582@qq.com"><img src="https://img.shields.io/badge/Email-2449164582%40qq.com-blue?style=flat-square&logo=gmail"></a>
     <img src="https://img.shields.io/badge/Focus-Embedded%20%7C%20AI%20%7C%20Neovim-green?style=flat-square">
   </p>
+</div>
 
 ### 🌌 3D Contribution Landscape
 
   <img width="85%" src="./profile-3d-contrib/profile-night-view.svg" />
   <br/><br/>
 
-  <!-- START_SECTION:achievements -->
-<p><img src="https://img.shields.io/badge/Total%20Stars-53-yellow?style=flat-square&logo=github" /> <img src="https://img.shields.io/badge/Public%20Repos-41-blue?style=flat-square&logo=github" /> <img src="https://img.shields.io/badge/Followers-5-green?style=flat-square&logo=github" /> <img src="https://img.shields.io/badge/Commits%20(Year)-806-purple?style=flat-square&logo=git" /> </p>
-  <!-- END_SECTION:achievements -->
-
-  <img src="https://github-immortality.vercel.app/api?username=quintin-lee&_v=1" alt="GitHub Immortality" />
-</div>
-
-## 📊 Analytics Dashboard
+<details>
+<summary align="center">📊 Analytics Dashboard</summary>
 
 <table align="center">
   <tr>
@@ -47,6 +40,7 @@
     </td>
   </tr>
 </table>
+</details>
 
 ## 🛠️ Toolbox
 
@@ -108,18 +102,15 @@
 - [ssh-manager](https://github.com/quintin-lee/ssh-manager): 基于 expect 工具实现 SSH 自动登录服务器，管理服务器 SSH 连接。 支持密码认证和密钥认证等多种方式，提供了交互式的终端界面。
 <!-- END_SECTION:projects -->
 
+<details>
+<summary align="center">⚡ Recent Activity & Deep Dive</summary>
+
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
 - 🚀 Pushed to [quintin-lee/quintin-lee](https://github.com/quintin-lee/quintin-lee) (2026-06-07)
 - 🚀 Pushed to [quintin-lee/csilk](https://github.com/quintin-lee/csilk) (2026-06-07)
 <!--END_SECTION:activity-->
-
-## 🎯 Beyond Coding
-
-<p>
-I'm a developer passionate about Neovim customization, embedded systems (STM32), and Linux environment configuration. When I'm not coding, you can find me traveling or gaming.
-</p>
 
 ## 🏆 GitHub Trophies
 
@@ -139,12 +130,16 @@ I'm a developer passionate about Neovim customization, embedded systems (STM32),
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/quintin-lee/quintin-lee/output/github-contribution-grid-snake.svg">
     <img src="https://raw.githubusercontent.com/quintin-lee/quintin-lee/output/github-contribution-grid-snake.svg" alt="github contribution grid snake animation" />
   </picture>
-
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=quintin-lee&color=3382ed&style=flat-square&label=PROFILE+VIEWS" />
-  <br/><br/>
-
+  
   <!--✍️QUOTE-START-->
 > The best error message is the one that never shows up. — Thomas Fuchs
 <!--✍️QUOTE-END-->
+</div>
+</details>
+
+<div align="center">
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=quintin-lee&color=3382ed&style=flat-square&label=PROFILE+VIEWS" />
+  <br/><br/>
 </div>
