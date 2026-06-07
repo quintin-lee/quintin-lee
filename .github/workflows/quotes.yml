@@ -16,4 +16,7 @@ jobs:
       - name: Generate Random Quote
         uses: denvercoder1/quote-readme@v3
         with:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          QUOTE_START_MARKER: '<!--✍️QUOTE-START-->'
+          QUOTE_END_MARKER: '<!--✍️QUOTE-END-->'
           COMMIT_MESSAGE: "chore: update daily dev quote"
