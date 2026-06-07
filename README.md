@@ -22,32 +22,26 @@
 
 <table align="center">
   <tr>
-    <td width="50%">
+    <td width="33%" align="center">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=quintin-lee&theme=dark&show_icons=true&bg_color=00000000&title_color=3382ed&icon_color=3382ed">
         <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=quintin-lee&theme=default&show_icons=true&bg_color=00000000&title_color=3382ed&icon_color=3382ed">
         <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=quintin-lee&theme=dark&show_icons=true&bg_color=00000000&title_color=3382ed&icon_color=3382ed">
       </picture>
     </td>
-    <td width="50%">
+    <td width="33%" align="center">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.vercel.app/?user=quintin-lee&theme=dark&background=00000000&stroke=3382ed&ring=3382ed&fire=3382ed&currStreakLabel=3382ed">
         <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.vercel.app/?user=quintin-lee&theme=default&background=00000000&stroke=3382ed&ring=3382ed&fire=3382ed&currStreakLabel=3382ed">
         <img src="https://streak-stats.vercel.app/?user=quintin-lee&theme=dark&background=00000000&stroke=3382ed&ring=3382ed&fire=3382ed&currStreakLabel=3382ed">
       </picture>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
+    <td width="33%" align="center">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=quintin-lee&theme=dark&layout=compact&bg_color=00000000&title_color=3382ed">
         <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=quintin-lee&theme=default&layout=compact&bg_color=00000000&title_color=3382ed">
         <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=quintin-lee&theme=dark&layout=compact&bg_color=00000000&title_color=3382ed">
       </picture>
-    </td>
-    <td width="50%" align="center">
-      <b>🛠️ Tech Stack</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=py,c,cpp,lua,linux,docker,mysql,mongodb,stm32,neovim,git,vscode" />
     </td>
   </tr>
 </table>
