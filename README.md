@@ -48,7 +48,7 @@
 
 <div align="center">
   <!-- START_SECTION:achievements -->
-<p><img src="https://img.shields.io/badge/Total%20Stars-53-yellow?style=flat-square&logo=github" /> <img src="https://img.shields.io/badge/Public%20Repos-41-blue?style=flat-square&logo=github" /> <img src="https://img.shields.io/badge/Followers-5-green?style=flat-square&logo=github" /> <img src="https://img.shields.io/badge/Commits%20(Year)-804-purple?style=flat-square&logo=git" /> </p>
+<p><img src="https://img.shields.io/badge/Total%20Stars-53-yellow?style=flat-square&logo=github" /> <img src="https://img.shields.io/badge/Public%20Repos-41-blue?style=flat-square&logo=github" /> <img src="https://img.shields.io/badge/Followers-5-green?style=flat-square&logo=github" /> <img src="https://img.shields.io/badge/Commits%20(Year)-806-purple?style=flat-square&logo=git" /> </p>
 <!-- END_SECTION:achievements -->
   
   <br/>
@@ -118,5 +118,6 @@ I'm a developer passionate about Neovim customization, embedded systems (STM32),
 
   <br/><br/>
   <!--✍️QUOTE-START-->
-  <!--✍️QUOTE-END-->
+> The most dangerous phrase in the language is: we've always done it this way. — Grace Hopper
+<!--✍️QUOTE-END-->
 </div>
