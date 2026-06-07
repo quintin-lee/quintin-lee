@@ -57,20 +57,38 @@
 <table align="center">
   <tr>
     <td align="center" width="25%">
-      <b>OS & Terminal</b><br/>
+      <b>Languages</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=c,cpp,py,lua,bash" />
+    </td>
+    <td align="center" width="25%">
+      <b>OS & Terminal</b><br/><br/>
       <img src="https://skillicons.dev/icons?i=linux,apple,zsh,tmux" />
     </td>
     <td align="center" width="25%">
-      <b>Editors</b><br/>
-      <img src="https://skillicons.dev/icons?i=neovim,vscode" />
+      <b>Editors & IDE</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=neovim,vscode,vim" />
     </td>
     <td align="center" width="25%">
-      <b>Embedded & IoT</b><br/>
+      <b>DevOps & Tools</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=docker,git,githubactions,cmake" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="25%">
+      <b>Embedded & IoT</b><br/><br/>
       <img src="https://skillicons.dev/icons?i=stm32,arduino,raspberrypi" />
     </td>
     <td align="center" width="25%">
-      <b>AI Assistants</b><br/>
+      <b>Databases</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
+    </td>
+    <td align="center" width="25%">
+      <b>AI & Assistants</b><br/><br/>
       <img src="https://skillicons.dev/icons?i=chatgpt,bots" />
+    </td>
+    <td align="center" width="25%">
+      <b>Other</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=md,regex,latex" />
     </td>
   </tr>
 </table>
