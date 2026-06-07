@@ -1,15 +1,21 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Quintin%20Lee&fontSize=90&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Quintin%20Lee&fontSize=90&animation=fadeIn&fontAlignY=38" />
 
 # 👋 Welcome to my Digital Garden
 
-<p align="center">
-  <a href="mailto:2449164582@qq.com"><img src="https://img.shields.io/badge/Email-2449164582%40qq.com-blue?style=flat-square&logo=gmail"></a>
-  <img src="https://img.shields.io/badge/Focus-Embedded%20%7C%20AI%20%7C%20Neovim-green?style=flat-square">
-</p>
+  <p>
+    <a href="mailto:2449164582@qq.com"><img src="https://img.shields.io/badge/Email-2449164582%40qq.com-blue?style=flat-square&logo=gmail"></a>
+    <img src="https://img.shields.io/badge/Focus-Embedded%20%7C%20AI%20%7C%20Neovim-green?style=flat-square">
+  </p>
 
 ### 🌌 3D Contribution Landscape
-<img width="85%" src="./profile-3d-contrib/profile-night-view.svg" />
+
+  <img width="85%" src="./profile-3d-contrib/profile-night-view.svg" />
+  <br/><br/>
+
+  <!-- START_SECTION:achievements -->
+<p><img src="https://img.shields.io/badge/Total%20Stars-53-yellow?style=flat-square&logo=github" /> <img src="https://img.shields.io/badge/Public%20Repos-41-blue?style=flat-square&logo=github" /> <img src="https://img.shields.io/badge/Followers-5-green?style=flat-square&logo=github" /> <img src="https://img.shields.io/badge/Commits%20(Year)-806-purple?style=flat-square&logo=git" /> </p>
+  <!-- END_SECTION:achievements -->
 </div>
 
 ## 📊 Analytics Dashboard
@@ -32,7 +38,7 @@
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <td width="50%" align="center">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=quintin-lee&theme=dark&layout=compact&bg_color=00000000&title_color=3382ed">
         <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=quintin-lee&theme=default&layout=compact&bg_color=00000000&title_color=3382ed">
@@ -46,20 +52,7 @@
   </tr>
 </table>
 
-<div align="center">
-  <!-- START_SECTION:achievements -->
-<p><img src="https://img.shields.io/badge/Total%20Stars-53-yellow?style=flat-square&logo=github" /> <img src="https://img.shields.io/badge/Public%20Repos-41-blue?style=flat-square&logo=github" /> <img src="https://img.shields.io/badge/Followers-5-green?style=flat-square&logo=github" /> <img src="https://img.shields.io/badge/Commits%20(Year)-806-purple?style=flat-square&logo=git" /> </p>
-<!-- END_SECTION:achievements -->
-  
-  <br/>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/quintin-lee/quintin-lee/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/quintin-lee/quintin-lee/output/github-contribution-grid-snake.svg">
-    <img src="https://raw.githubusercontent.com/quintin-lee/quintin-lee/output/github-contribution-grid-snake.svg" alt="github contribution grid snake animation" />
-  </picture>
-</div>
-
-## 🛠️ My Tech Toolbox
+## 🛠️ Toolbox
 
 <table align="center">
   <tr>
@@ -83,6 +76,7 @@
 </table>
 
 ## 📂 Featured Projects
+
 <!-- START_SECTION:projects -->
 - [quintin-lee](https://github.com/quintin-lee/quintin-lee): No description
 - [csilk](https://github.com/quintin-lee/csilk): A lightweight, high-performance HTTP web framework written in C and built on top of libuv, llhttp, and cJSON.
@@ -94,14 +88,14 @@
 <!-- END_SECTION:projects -->
 
 ## ⚡ Recent Activity
+
 <!--START_SECTION:activity-->
 - 🚀 Pushed to [quintin-lee/quintin-lee](https://github.com/quintin-lee/quintin-lee) (2026-06-07)
 - 🚀 Pushed to [quintin-lee/csilk](https://github.com/quintin-lee/csilk) (2026-06-07)
 <!--END_SECTION:activity-->
 
-<br/>
-
 ## 🎯 Beyond Coding
+
 <p>
 I'm a developer passionate about Neovim customization, embedded systems (STM32), and Linux environment configuration. When I'm not coding, you can find me traveling or gaming.
 </p>
@@ -113,11 +107,17 @@ I'm a developer passionate about Neovim customization, embedded systems (STM32),
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=quintin-lee&theme=tokyonight&bg_color=00000000&hide_border=true" width="100%" />
   </picture>
 
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/quintin-lee/quintin-lee/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/quintin-lee/quintin-lee/output/github-contribution-grid-snake.svg">
+    <img src="https://raw.githubusercontent.com/quintin-lee/quintin-lee/output/github-contribution-grid-snake.svg" alt="github contribution grid snake animation" />
+  </picture>
+
   <br/>
   <img src="https://komarev.com/ghpvc/?username=quintin-lee&color=3382ed&style=flat-square&label=PROFILE+VIEWS" />
-
   <br/><br/>
+
   <!--✍️QUOTE-START-->
 > The most dangerous phrase in the language is: we've always done it this way. — Grace Hopper
-<!--✍️QUOTE-END-->
+  <!--✍️QUOTE-END-->
 </div>
