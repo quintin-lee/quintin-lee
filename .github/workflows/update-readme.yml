@@ -50,7 +50,7 @@ jobs:
               return '\n'.join([f'- [{r[\"name\"]}]({r[\"html_url\"]}): {r.get(\"description\") or \"No description\"}' for r in sorted_repos])
 
           def fetch_activity():
-              events = gh_api('/users/quintin-lee/events/public?per_page=30')
+              events = gh_api('/users/quintin-lee/events?per_page=30')
               if not isinstance(events, list):
                   return 'Failed to fetch activity.'
               activity_list = []
@@ -62,30 +62,43 @@ jobs:
                       repo_name = event['repo']['name']
                       repo_url = f'https://github.com/{repo_name}'
                       unique_key = (etype, repo_name)
-                      if unique_key in seen_repos:
-                          continue
                       payload = event.get('payload', {})
                       if etype == 'PushEvent':
-                          commits = payload.get('size') or payload.get('distinct_size') or 0
-                          if commits == 0:
+                          if unique_key in seen_repos:
                               continue
-                          activity_list.append(f'- 🚀 Pushed {commits} commit(s) to [{repo_name}]({repo_url}) ({created_at})')
+                          commits = payload.get('size') or payload.get('distinct_size') or 0
+                          if commits > 0:
+                              activity_list.append(f'- 🚀 Pushed {commits} commit(s) to [{repo_name}]({repo_url}) ({created_at})')
+                          else:
+                              activity_list.append(f'- 🚀 Pushed to [{repo_name}]({repo_url}) ({created_at})')
                       elif etype == 'PullRequestEvent':
+                          if unique_key in seen_repos:
+                              continue
                           action = payload.get('action', 'updated')
                           activity_list.append(f'- 🔀 {action.capitalize()} PR in [{repo_name}]({repo_url}) ({created_at})')
                       elif etype == 'CreateEvent':
+                          if unique_key in seen_repos:
+                              continue
                           ref_type = payload.get('ref_type', 'ref')
                           activity_list.append(f'- ✨ Created {ref_type} in [{repo_name}]({repo_url}) ({created_at})')
                       elif etype == 'WatchEvent':
+                          if unique_key in seen_repos:
+                              continue
                           activity_list.append(f'- ⭐ Starred [{repo_name}]({repo_url}) ({created_at})')
                       elif etype == 'ForkEvent':
+                          if unique_key in seen_repos:
+                              continue
                           activity_list.append(f'- 🍴 Forked [{repo_name}]({repo_url}) ({created_at})')
                       elif etype == 'IssuesEvent':
+                          if unique_key in seen_repos:
+                              continue
                           action = payload.get('action', 'updated')
                           activity_list.append(f'- 🐛 {action.capitalize()} issue in [{repo_name}]({repo_url}) ({created_at})')
                       elif etype == 'IssueCommentEvent':
+                          if unique_key in seen_repos:
+                              continue
                           activity_list.append(f'- 💬 Commented on issue in [{repo_name}]({repo_url}) ({created_at})')
-                      if activity_list and unique_key not in seen_repos:
+                      if activity_list:
                           seen_repos.add(unique_key)
                       if len(activity_list) >= 5:
                           break
