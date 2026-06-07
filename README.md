@@ -122,7 +122,7 @@ I'm a developer passionate about Neovim customization, embedded systems (STM32),
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=quintin-lee&theme=onedark&no-frame=true&column=7&margin-w=5" />
+  <img src="https://github-trophies.vercel.app/?username=quintin-lee&theme=onedark&no-frame=true&column=7&margin-w=5" />
 </p>
 
 <div align="center">
