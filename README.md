@@ -14,8 +14,10 @@
   <br/><br/>
 
   <!-- START_SECTION:achievements -->
-<p><img src="https://img.shields.io/badge/Total%20Stars-53-yellow?style=flat-square&logo=github" /> <img src="https://img.shields.io/badge/Public%20Repos-41-blue?style=flat-square&logo=github" /> <img src="https://img.shields.io/badge/Followers-5-green?style=flat-square&logo=github" /> <img src="https://img.shields.io/badge/Commits%20(Year)-810-purple?style=flat-square&logo=git" /> </p>
-<!-- END_SECTION:achievements -->
+<p><img src="https://img.shields.io/badge/Total%20Stars-53-yellow?style=flat-square&logo=github" /> <img src="https://img.shields.io/badge/Public%20Repos-41-blue?style=flat-square&logo=github" /> <img src="https://img.shields.io/badge/Followers-5-green?style=flat-square&logo=github" /> <img src="https://img.shields.io/badge/Commits%20(Year)-806-purple?style=flat-square&logo=git" /> </p>
+  <!-- END_SECTION:achievements -->
+
+  <img src="https://github-immortality.vercel.app/api?username=quintin-lee&_v=1" alt="GitHub Immortality" />
 </div>
 
 ## 📊 Analytics Dashboard
