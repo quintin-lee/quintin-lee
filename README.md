@@ -87,6 +87,13 @@
   </tr>
 </table>
 
+## 💼 What I'm Up To
+
+- 🔭 Working on **[csilk](https://github.com/quintin-lee/csilk)** — lightweight C HTTP framework built on libuv
+- 🌱 Exploring **RISC-V** bare-metal programming and **Zig** for embedded systems
+- 🛠️ Maintaining **[dotfiles](https://github.com/quintin-lee/dotfiles)** and **[NVCode](https://github.com/quintin-lee/NVCode)** Neovim configurations
+- 📖 Reading *Computer Systems: A Programmer's Perspective* (CS:APP)
+
 ## 📂 Featured Projects
 
 <!-- START_SECTION:projects -->
@@ -110,6 +117,12 @@
 
 <p>
 I'm a developer passionate about Neovim customization, embedded systems (STM32), and Linux environment configuration. When I'm not coding, you can find me traveling or gaming.
+</p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=quintin-lee&theme=onedark&no-frame=true&column=7&margin-w=5" />
 </p>
 
 <div align="center">
