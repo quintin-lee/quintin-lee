@@ -22,7 +22,7 @@ jobs:
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
+          git pull --rebase --autostash origin main
           git add -A .
-          git pull --rebase origin main
-          git commit -m "Generate 3D Contribution Chart"
+          git diff --cached --quiet || git commit -m "Generate 3D Contribution Chart"
           git push
