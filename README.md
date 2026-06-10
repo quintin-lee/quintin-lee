@@ -45,7 +45,7 @@
 ## 🌱 GitHub Immortality
 
 <p align="center">
-  <img src="https://github-immortality.vercel.app/api?username=quintin-lee&_v=1" />
+  <img src="https://github-immortality.vercel.app/api?username=quintin-lee&_v=1" width="100%" />
 </p>
 
 ## 🛠️ Toolbox
