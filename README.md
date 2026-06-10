@@ -42,6 +42,12 @@
 </table>
 </details>
 
+## 🌱 GitHub Immortality
+
+<p align="center">
+  <img src="https://github-immortality.vercel.app/api?username=quintin-lee&_v=1" />
+</p>
+
 ## 🛠️ Toolbox
 
 <table align="center">
