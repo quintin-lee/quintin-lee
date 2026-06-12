@@ -99,12 +99,12 @@
 ## 📂 Featured Projects
 
 <!-- START_SECTION:projects -->
-- [NVCode](https://github.com/quintin-lee/NVCode): neovim 配置
 - [ssh-manager](https://github.com/quintin-lee/ssh-manager): 基于 expect 工具实现 SSH 自动登录服务器，管理服务器 SSH 连接。 支持密码认证和密钥认证等多种方式，提供了交互式的终端界面。
+- [cdsl](https://github.com/quintin-lee/cdsl): An AI-powered DSL rule engine framework in C with three-layer architecture (Syntax → Abstract → Execution), natural language translation, multi-metric scoring, and tri-state audit results.
 - [csilk](https://github.com/quintin-lee/csilk): A lightweight, high-performance HTTP web framework written in C and built on top of libuv, llhttp, and cJSON.
 - [quintin-lee](https://github.com/quintin-lee/quintin-lee): No description
+- [NVCode](https://github.com/quintin-lee/NVCode): neovim 配置
 - [dotfiles](https://github.com/quintin-lee/dotfiles): zsh、tmux、vim、git、fzf 等配置
-- [cdsl](https://github.com/quintin-lee/cdsl): An AI-powered DSL rule engine framework in C with three-layer architecture (Syntax → Abstract → Execution), natural language translation, multi-metric scoring, and tri-state audit results.
 - [MiniRTOS-](https://github.com/quintin-lee/MiniRTOS-): 针对 8051 微控制器设计的轻量级**抢占式**实时操作系统，通过 HAL 层支持跨平台移植 (8051/STM32)。
 <!-- END_SECTION:projects -->
 
@@ -114,10 +114,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-- 🚀 Pushed to [quintin-lee/NVCode](https://github.com/quintin-lee/NVCode) (2026-06-11)
-- 🚀 Pushed to [quintin-lee/ssh-manager](https://github.com/quintin-lee/ssh-manager) (2026-06-11)
+- 🚀 Pushed to [quintin-lee/ssh-manager](https://github.com/quintin-lee/ssh-manager) (2026-06-12)
+- 🚀 Pushed to [quintin-lee/cdsl](https://github.com/quintin-lee/cdsl) (2026-06-12)
 - 🚀 Pushed to [quintin-lee/csilk](https://github.com/quintin-lee/csilk) (2026-06-11)
-- 🚀 Pushed to [quintin-lee/quintin-lee](https://github.com/quintin-lee/quintin-lee) (2026-06-10)
+- 🚀 Pushed to [quintin-lee/NVCode](https://github.com/quintin-lee/NVCode) (2026-06-11)
 <!--END_SECTION:activity-->
 
 ## 🏆 GitHub Trophies
