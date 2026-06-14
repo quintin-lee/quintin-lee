@@ -99,10 +99,10 @@
 ## 📂 Featured Projects
 
 <!-- START_SECTION:projects -->
+- [sso](https://github.com/quintin-lee/sso): No description
+- [quintin-lee](https://github.com/quintin-lee/quintin-lee): No description
 - [cdsl](https://github.com/quintin-lee/cdsl): An AI-powered DSL rule engine framework in C with three-layer architecture (Syntax → Abstract → Execution), natural language translation, multi-metric scoring, and tri-state audit results.
 - [csilk](https://github.com/quintin-lee/csilk): A lightweight, high-performance HTTP web framework written in C and built on top of libuv, llhttp, and cJSON.
-- [quintin-lee](https://github.com/quintin-lee/quintin-lee): No description
-- [sso](https://github.com/quintin-lee/sso): No description
 - [ssh-manager](https://github.com/quintin-lee/ssh-manager): 基于 expect 工具实现 SSH 自动登录服务器，管理服务器 SSH 连接。 支持密码认证和密钥认证等多种方式，提供了交互式的终端界面。
 - [NVCode](https://github.com/quintin-lee/NVCode): neovim 配置
 - [dotfiles](https://github.com/quintin-lee/dotfiles): zsh、tmux、vim、git、fzf 等配置
@@ -114,11 +114,9 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
+- 🚀 Pushed to [quintin-lee/sso](https://github.com/quintin-lee/sso) (2026-06-14)
 - 🚀 Pushed to [quintin-lee/cdsl](https://github.com/quintin-lee/cdsl) (2026-06-13)
 - 🚀 Pushed to [quintin-lee/csilk](https://github.com/quintin-lee/csilk) (2026-06-13)
-- 🚀 Pushed to [quintin-lee/sso](https://github.com/quintin-lee/sso) (2026-06-12)
-- ✨ Created branch in [quintin-lee/sso](https://github.com/quintin-lee/sso) (2026-06-12)
-- 🚀 Pushed to [quintin-lee/ssh-manager](https://github.com/quintin-lee/ssh-manager) (2026-06-12)
 <!--END_SECTION:activity-->
 
 ## 🏆 GitHub Trophies
@@ -142,7 +140,7 @@
   <br/>
   
   <!--✍️QUOTE-START-->
-> Debugging is twice as hard as writing the code in the first place. — Brian Kernighan
+> Measuring programming progress by lines of code is like measuring aircraft building progress by weight. — Bill Gates
 <!--✍️QUOTE-END-->
 </div>
 </details>
