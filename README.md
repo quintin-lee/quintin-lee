@@ -114,9 +114,7 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-- 🚀 Pushed to [quintin-lee/sso](https://github.com/quintin-lee/sso) (2026-06-14)
-- 🚀 Pushed to [quintin-lee/cdsl](https://github.com/quintin-lee/cdsl) (2026-06-13)
-- 🚀 Pushed to [quintin-lee/csilk](https://github.com/quintin-lee/csilk) (2026-06-13)
+- 🚀 Pushed to [quintin-lee/sso](https://github.com/quintin-lee/sso) (2026-06-15)
 <!--END_SECTION:activity-->
 
 ## 🏆 GitHub Trophies
@@ -140,7 +138,7 @@
   <br/>
   
   <!--✍️QUOTE-START-->
-> Measuring programming progress by lines of code is like measuring aircraft building progress by weight. — Bill Gates
+> Any fool can write code that a computer can understand. Good programmers write code that humans can understand. — Martin Fowler
 <!--✍️QUOTE-END-->
 </div>
 </details>
