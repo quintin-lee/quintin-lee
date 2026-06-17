@@ -140,7 +140,7 @@
   <br/>
   
   <!--✍️QUOTE-START-->
-> Any fool can write code that a computer can understand. Good programmers write code that humans can understand. — Martin Fowler
+> Code is like humor. When you have to explain it, it's bad. — Cory House
 <!--✍️QUOTE-END-->
 </div>
 </details>
