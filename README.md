@@ -114,7 +114,7 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-- 🚀 Pushed to [quintin-lee/sso](https://github.com/quintin-lee/sso) (2026-06-19)
+- 🚀 Pushed to [quintin-lee/sso](https://github.com/quintin-lee/sso) (2026-06-20)
 <!--END_SECTION:activity-->
 
 ## 🏆 GitHub Trophies
@@ -138,7 +138,7 @@
   <br/>
   
   <!--✍️QUOTE-START-->
-> Code is like humor. When you have to explain it, it's bad. — Cory House
+> First, solve the problem. Then, write the code. — John Johnson
 <!--✍️QUOTE-END-->
 </div>
 </details>
