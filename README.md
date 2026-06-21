@@ -99,8 +99,8 @@
 ## 📂 Featured Projects
 
 <!-- START_SECTION:projects -->
-- [sso](https://github.com/quintin-lee/sso): No description
 - [quintin-lee](https://github.com/quintin-lee/quintin-lee): No description
+- [sso](https://github.com/quintin-lee/sso): No description
 - [NVCode](https://github.com/quintin-lee/NVCode): neovim 配置
 - [cdsl](https://github.com/quintin-lee/cdsl): An AI-powered DSL rule engine framework in C with three-layer architecture (Syntax → Abstract → Execution), natural language translation, multi-metric scoring, and tri-state audit results.
 - [csilk](https://github.com/quintin-lee/csilk): A lightweight, high-performance HTTP web framework written in C and built on top of libuv, llhttp, and cJSON.
