@@ -114,8 +114,8 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-- 🚀 Pushed to [quintin-lee/csilk](https://github.com/quintin-lee/csilk) (2026-06-23)
-- 🚀 Pushed to [quintin-lee/sso](https://github.com/quintin-lee/sso) (2026-06-23)
+- 🚀 Pushed to [quintin-lee/csilk](https://github.com/quintin-lee/csilk) (2026-06-24)
+- 🚀 Pushed to [quintin-lee/sso](https://github.com/quintin-lee/sso) (2026-06-24)
 <!--END_SECTION:activity-->
 
 ## 🏆 GitHub Trophies
@@ -139,7 +139,7 @@
   <br/>
   
   <!--✍️QUOTE-START-->
-> Any fool can write code that a computer can understand. Good programmers write code that humans can understand. — Martin Fowler
+> In C, it is easy to shoot yourself in the foot. In C++, it's harder, but when you do, you blow your whole leg off. — Bjarne Stroustrup
 <!--✍️QUOTE-END-->
 </div>
 </details>
