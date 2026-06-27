@@ -99,9 +99,9 @@
 ## 📂 Featured Projects
 
 <!-- START_SECTION:projects -->
-- [NVCode](https://github.com/quintin-lee/NVCode): neovim 配置
-- [quintin-lee](https://github.com/quintin-lee/quintin-lee): No description
 - [csilk](https://github.com/quintin-lee/csilk): A lightweight, high-performance HTTP web framework written in C and built on top of libuv, llhttp, and cJSON.
+- [quintin-lee](https://github.com/quintin-lee/quintin-lee): No description
+- [NVCode](https://github.com/quintin-lee/NVCode): neovim 配置
 - [sso](https://github.com/quintin-lee/sso): No description
 - [cdsl](https://github.com/quintin-lee/cdsl): An AI-powered DSL rule engine framework in C with three-layer architecture (Syntax → Abstract → Execution), natural language translation, multi-metric scoring, and tri-state audit results.
 - [ssh-manager](https://github.com/quintin-lee/ssh-manager): 基于 expect 工具实现 SSH 自动登录服务器，管理服务器 SSH 连接。 支持密码认证和密钥认证等多种方式，提供了交互式的终端界面。
@@ -114,9 +114,9 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
+- 🚀 Pushed to [quintin-lee/csilk](https://github.com/quintin-lee/csilk) (2026-06-27)
 - 🚀 Pushed to [quintin-lee/NVCode](https://github.com/quintin-lee/NVCode) (2026-06-26)
 - ✨ Created branch in [quintin-lee/NVCode](https://github.com/quintin-lee/NVCode) (2026-06-26)
-- 🚀 Pushed to [quintin-lee/csilk](https://github.com/quintin-lee/csilk) (2026-06-25)
 - 🚀 Pushed to [quintin-lee/sso](https://github.com/quintin-lee/sso) (2026-06-25)
 <!--END_SECTION:activity-->
 
@@ -141,7 +141,7 @@
   <br/>
   
   <!--✍️QUOTE-START-->
-> The most dangerous phrase in the language is: we've always done it this way. — Grace Hopper
+> In C, it is easy to shoot yourself in the foot. In C++, it's harder, but when you do, you blow your whole leg off. — Bjarne Stroustrup
 <!--✍️QUOTE-END-->
 </div>
 </details>
