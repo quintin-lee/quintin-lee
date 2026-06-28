@@ -114,10 +114,7 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-- 🚀 Pushed to [quintin-lee/csilk](https://github.com/quintin-lee/csilk) (2026-06-27)
-- 🚀 Pushed to [quintin-lee/NVCode](https://github.com/quintin-lee/NVCode) (2026-06-26)
-- ✨ Created branch in [quintin-lee/NVCode](https://github.com/quintin-lee/NVCode) (2026-06-26)
-- 🚀 Pushed to [quintin-lee/sso](https://github.com/quintin-lee/sso) (2026-06-25)
+- 🚀 Pushed to [quintin-lee/csilk](https://github.com/quintin-lee/csilk) (2026-06-28)
 <!--END_SECTION:activity-->
 
 ## 🏆 GitHub Trophies
@@ -141,7 +138,7 @@
   <br/>
   
   <!--✍️QUOTE-START-->
-> In C, it is easy to shoot yourself in the foot. In C++, it's harder, but when you do, you blow your whole leg off. — Bjarne Stroustrup
+> Make it work, make it right, make it fast. — Kent Beck
 <!--✍️QUOTE-END-->
 </div>
 </details>
