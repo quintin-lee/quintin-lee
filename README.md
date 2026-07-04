@@ -114,8 +114,7 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-- 🚀 Pushed to [quintin-lee/csilk](https://github.com/quintin-lee/csilk) (2026-07-03)
-- 🚀 Pushed to [quintin-lee/NVCode](https://github.com/quintin-lee/NVCode) (2026-07-01)
+- 🚀 Pushed to [quintin-lee/csilk](https://github.com/quintin-lee/csilk) (2026-07-04)
 <!--END_SECTION:activity-->
 
 ## 🏆 GitHub Trophies
@@ -139,7 +138,7 @@
   <br/>
   
   <!--✍️QUOTE-START-->
-> Any fool can write code that a computer can understand. Good programmers write code that humans can understand. — Martin Fowler
+> The only way to learn a new programming language is by writing programs in it. — Dennis Ritchie
 <!--✍️QUOTE-END-->
 </div>
 </details>
