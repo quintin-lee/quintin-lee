@@ -99,8 +99,8 @@
 ## 📂 Featured Projects
 
 <!-- START_SECTION:projects -->
-- [csilk](https://github.com/quintin-lee/csilk): A lightweight, high-performance HTTP web framework written in C and built on top of libuv, llhttp, and cJSON.
 - [quintin-lee](https://github.com/quintin-lee/quintin-lee): No description
+- [csilk](https://github.com/quintin-lee/csilk): A lightweight, high-performance HTTP web framework written in C and built on top of libuv, llhttp, and cJSON.
 - [NVCode](https://github.com/quintin-lee/NVCode): neovim 配置
 - [sso](https://github.com/quintin-lee/sso): No description
 - [cdsl](https://github.com/quintin-lee/cdsl): An AI-powered DSL rule engine framework in C with three-layer architecture (Syntax → Abstract → Execution), natural language translation, multi-metric scoring, and tri-state audit results.
@@ -138,7 +138,7 @@
   <br/>
   
   <!--✍️QUOTE-START-->
-> The only way to learn a new programming language is by writing programs in it. — Dennis Ritchie
+> Make it work, make it right, make it fast. — Kent Beck
 <!--✍️QUOTE-END-->
 </div>
 </details>
