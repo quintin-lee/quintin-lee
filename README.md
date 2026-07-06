@@ -114,7 +114,7 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-- 🚀 Pushed to [quintin-lee/csilk](https://github.com/quintin-lee/csilk) (2026-07-04)
+- 🚀 Pushed to [quintin-lee/csilk](https://github.com/quintin-lee/csilk) (2026-07-05)
 <!--END_SECTION:activity-->
 
 ## 🏆 GitHub Trophies
@@ -138,7 +138,7 @@
   <br/>
   
   <!--✍️QUOTE-START-->
-> Make it work, make it right, make it fast. — Kent Beck
+> The only way to learn a new programming language is by writing programs in it. — Dennis Ritchie
 <!--✍️QUOTE-END-->
 </div>
 </details>
