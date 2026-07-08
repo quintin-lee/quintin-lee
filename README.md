@@ -114,7 +114,7 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-- 🚀 Pushed to [quintin-lee/csilk](https://github.com/quintin-lee/csilk) (2026-07-07)
+- 🚀 Pushed to [quintin-lee/csilk](https://github.com/quintin-lee/csilk) (2026-07-08)
 <!--END_SECTION:activity-->
 
 ## 🏆 GitHub Trophies
@@ -138,7 +138,7 @@
   <br/>
   
   <!--✍️QUOTE-START-->
-> Software is a great combination between artistry and engineering. — Bill Gates
+> Debugging is twice as hard as writing the code in the first place. — Brian Kernighan
 <!--✍️QUOTE-END-->
 </div>
 </details>
