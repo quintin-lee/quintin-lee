@@ -138,7 +138,7 @@
   <br/>
   
   <!--✍️QUOTE-START-->
-> Debugging is twice as hard as writing the code in the first place. — Brian Kernighan
+> The best error message is the one that never shows up. — Thomas Fuchs
 <!--✍️QUOTE-END-->
 </div>
 </details>
