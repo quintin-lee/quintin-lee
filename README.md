@@ -99,9 +99,9 @@
 ## 📂 Featured Projects
 
 <!-- START_SECTION:projects -->
+- [csilk](https://github.com/quintin-lee/csilk): A lightweight, high-performance HTTP web framework written in C and built on top of libuv, llhttp, and cJSON.
 - [quintin-lee](https://github.com/quintin-lee/quintin-lee): No description
 - [csilk-example](https://github.com/quintin-lee/csilk-example): No description
-- [csilk](https://github.com/quintin-lee/csilk): A lightweight, high-performance HTTP web framework written in C and built on top of libuv, llhttp, and cJSON.
 - [NVCode](https://github.com/quintin-lee/NVCode): neovim 配置
 - [sso](https://github.com/quintin-lee/sso): No description
 - [cdsl](https://github.com/quintin-lee/cdsl): An AI-powered DSL rule engine framework in C with three-layer architecture (Syntax → Abstract → Execution), natural language translation, multi-metric scoring, and tri-state audit results.
@@ -114,9 +114,9 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
+- 🚀 Pushed to [quintin-lee/csilk](https://github.com/quintin-lee/csilk) (2026-07-12)
 - 🚀 Pushed to [quintin-lee/csilk-example](https://github.com/quintin-lee/csilk-example) (2026-07-10)
 - ✨ Created branch in [quintin-lee/csilk-example](https://github.com/quintin-lee/csilk-example) (2026-07-10)
-- 🚀 Pushed to [quintin-lee/csilk](https://github.com/quintin-lee/csilk) (2026-07-09)
 <!--END_SECTION:activity-->
 
 ## 🏆 GitHub Trophies
