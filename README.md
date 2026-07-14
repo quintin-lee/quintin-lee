@@ -99,13 +99,13 @@
 ## 📂 Featured Projects
 
 <!-- START_SECTION:projects -->
-- [csilk-example](https://github.com/quintin-lee/csilk-example): No description
 - [csilk](https://github.com/quintin-lee/csilk): A lightweight, high-performance HTTP web framework written in C and built on top of libuv, llhttp, and cJSON.
 - [quintin-lee](https://github.com/quintin-lee/quintin-lee): No description
+- [ssh-manager](https://github.com/quintin-lee/ssh-manager): 基于 expect 工具实现 SSH 自动登录服务器，管理服务器 SSH 连接。 支持密码认证和密钥认证等多种方式，提供了交互式的终端界面。
+- [csilk-example](https://github.com/quintin-lee/csilk-example): No description
 - [NVCode](https://github.com/quintin-lee/NVCode): neovim 配置
 - [sso](https://github.com/quintin-lee/sso): No description
 - [cdsl](https://github.com/quintin-lee/cdsl): An AI-powered DSL rule engine framework in C with three-layer architecture (Syntax → Abstract → Execution), natural language translation, multi-metric scoring, and tri-state audit results.
-- [ssh-manager](https://github.com/quintin-lee/ssh-manager): 基于 expect 工具实现 SSH 自动登录服务器，管理服务器 SSH 连接。 支持密码认证和密钥认证等多种方式，提供了交互式的终端界面。
 <!-- END_SECTION:projects -->
 
 <details>
@@ -114,8 +114,9 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
+- 🚀 Pushed to [quintin-lee/csilk](https://github.com/quintin-lee/csilk) (2026-07-14)
+- 🚀 Pushed to [quintin-lee/ssh-manager](https://github.com/quintin-lee/ssh-manager) (2026-07-13)
 - 🚀 Pushed to [quintin-lee/csilk-example](https://github.com/quintin-lee/csilk-example) (2026-07-13)
-- 🚀 Pushed to [quintin-lee/csilk](https://github.com/quintin-lee/csilk) (2026-07-13)
 <!--END_SECTION:activity-->
 
 ## 🏆 GitHub Trophies
