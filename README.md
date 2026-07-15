@@ -99,9 +99,9 @@
 ## 📂 Featured Projects
 
 <!-- START_SECTION:projects -->
-- [csilk](https://github.com/quintin-lee/csilk): A lightweight, high-performance HTTP web framework written in C and built on top of libuv, llhttp, and cJSON.
-- [quintin-lee](https://github.com/quintin-lee/quintin-lee): No description
 - [ssh-manager](https://github.com/quintin-lee/ssh-manager): 基于 expect 工具实现 SSH 自动登录服务器，管理服务器 SSH 连接。 支持密码认证和密钥认证等多种方式，提供了交互式的终端界面。
+- [quintin-lee](https://github.com/quintin-lee/quintin-lee): No description
+- [csilk](https://github.com/quintin-lee/csilk): A lightweight, high-performance HTTP web framework written in C and built on top of libuv, llhttp, and cJSON.
 - [csilk-example](https://github.com/quintin-lee/csilk-example): No description
 - [NVCode](https://github.com/quintin-lee/NVCode): neovim 配置
 - [sso](https://github.com/quintin-lee/sso): No description
@@ -114,8 +114,8 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
+- 🚀 Pushed to [quintin-lee/ssh-manager](https://github.com/quintin-lee/ssh-manager) (2026-07-14)
 - 🚀 Pushed to [quintin-lee/csilk](https://github.com/quintin-lee/csilk) (2026-07-14)
-- 🚀 Pushed to [quintin-lee/ssh-manager](https://github.com/quintin-lee/ssh-manager) (2026-07-13)
 - 🚀 Pushed to [quintin-lee/csilk-example](https://github.com/quintin-lee/csilk-example) (2026-07-13)
 <!--END_SECTION:activity-->
 
@@ -140,7 +140,7 @@
   <br/>
   
   <!--✍️QUOTE-START-->
-> In C, it is easy to shoot yourself in the foot. In C++, it's harder, but when you do, you blow your whole leg off. — Bjarne Stroustrup
+> The best error message is the one that never shows up. — Thomas Fuchs
 <!--✍️QUOTE-END-->
 </div>
 </details>
