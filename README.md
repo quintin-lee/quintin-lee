@@ -99,13 +99,13 @@
 ## 📂 Featured Projects
 
 <!-- START_SECTION:projects -->
-- [penv](https://github.com/quintin-lee/penv): Python venv manager
-- [quintin-lee](https://github.com/quintin-lee/quintin-lee): No description
-- [ssh-manager](https://github.com/quintin-lee/ssh-manager): 基于 expect 工具实现 SSH 自动登录服务器，管理服务器 SSH 连接。 支持密码认证和密钥认证等多种方式，提供了交互式的终端界面。
 - [csilk](https://github.com/quintin-lee/csilk): A lightweight, high-performance HTTP web framework written in C and built on top of libuv, llhttp, and cJSON.
+- [quintin-lee](https://github.com/quintin-lee/quintin-lee): No description
+- [shell-json](https://github.com/quintin-lee/shell-json): No description
+- [penv](https://github.com/quintin-lee/penv): Python venv manager
+- [ssh-manager](https://github.com/quintin-lee/ssh-manager): 基于 expect 工具实现 SSH 自动登录服务器，管理服务器 SSH 连接。 支持密码认证和密钥认证等多种方式，提供了交互式的终端界面。
 - [csilk-example](https://github.com/quintin-lee/csilk-example): No description
 - [NVCode](https://github.com/quintin-lee/NVCode): neovim 配置
-- [sso](https://github.com/quintin-lee/sso): No description
 <!-- END_SECTION:projects -->
 
 <details>
@@ -114,10 +114,9 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
+- 🚀 Pushed to [quintin-lee/csilk](https://github.com/quintin-lee/csilk) (2026-07-18)
+- ✨ Created branch in [quintin-lee/shell-json](https://github.com/quintin-lee/shell-json) (2026-07-17)
 - 🚀 Pushed to [quintin-lee/penv](https://github.com/quintin-lee/penv) (2026-07-17)
-- 🔀 Closed PR in [quintin-lee/penv](https://github.com/quintin-lee/penv) (2026-07-16)
-- 🚀 Pushed to [quintin-lee/ssh-manager](https://github.com/quintin-lee/ssh-manager) (2026-07-16)
-- 🚀 Pushed to [quintin-lee/csilk](https://github.com/quintin-lee/csilk) (2026-07-15)
 <!--END_SECTION:activity-->
 
 ## 🏆 GitHub Trophies
@@ -141,7 +140,7 @@
   <br/>
   
   <!--✍️QUOTE-START-->
-> Measuring programming progress by lines of code is like measuring aircraft building progress by weight. — Bill Gates
+> The most dangerous phrase in the language is: we've always done it this way. — Grace Hopper
 <!--✍️QUOTE-END-->
 </div>
 </details>
