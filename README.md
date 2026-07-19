@@ -114,9 +114,7 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-- 🚀 Pushed to [quintin-lee/csilk](https://github.com/quintin-lee/csilk) (2026-07-18)
-- ✨ Created branch in [quintin-lee/shell-json](https://github.com/quintin-lee/shell-json) (2026-07-17)
-- 🚀 Pushed to [quintin-lee/penv](https://github.com/quintin-lee/penv) (2026-07-17)
+- 🚀 Pushed to [quintin-lee/csilk](https://github.com/quintin-lee/csilk) (2026-07-19)
 <!--END_SECTION:activity-->
 
 ## 🏆 GitHub Trophies
@@ -140,7 +138,7 @@
   <br/>
   
   <!--✍️QUOTE-START-->
-> The most dangerous phrase in the language is: we've always done it this way. — Grace Hopper
+> Talk is cheap. Show me the code. — Linus Torvalds
 <!--✍️QUOTE-END-->
 </div>
 </details>
