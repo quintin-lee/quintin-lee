@@ -99,13 +99,13 @@
 ## 📂 Featured Projects
 
 <!-- START_SECTION:projects -->
-- [quintin-lee](https://github.com/quintin-lee/quintin-lee): No description
-- [csilk](https://github.com/quintin-lee/csilk): A lightweight, high-performance HTTP web framework written in C and built on top of libuv, llhttp, and cJSON.
 - [shell-json](https://github.com/quintin-lee/shell-json): No description
+- [quintin-lee](https://github.com/quintin-lee/quintin-lee): No description
+- [agnes-video-creator](https://github.com/quintin-lee/agnes-video-creator): No description
+- [csilk](https://github.com/quintin-lee/csilk): A lightweight, high-performance HTTP web framework written in C and built on top of libuv, llhttp, and cJSON.
 - [penv](https://github.com/quintin-lee/penv): Python venv manager
 - [ssh-manager](https://github.com/quintin-lee/ssh-manager): 基于 expect 工具实现 SSH 自动登录服务器，管理服务器 SSH 连接。 支持密码认证和密钥认证等多种方式，提供了交互式的终端界面。
 - [csilk-example](https://github.com/quintin-lee/csilk-example): No description
-- [NVCode](https://github.com/quintin-lee/NVCode): neovim 配置
 <!-- END_SECTION:projects -->
 
 <details>
@@ -114,6 +114,9 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
+- 🚀 Pushed to [quintin-lee/shell-json](https://github.com/quintin-lee/shell-json) (2026-07-21)
+- 🚀 Pushed to [quintin-lee/agnes-video-creator](https://github.com/quintin-lee/agnes-video-creator) (2026-07-20)
+- ✨ Created branch in [quintin-lee/agnes-video-creator](https://github.com/quintin-lee/agnes-video-creator) (2026-07-20)
 - 🚀 Pushed to [quintin-lee/csilk](https://github.com/quintin-lee/csilk) (2026-07-19)
 <!--END_SECTION:activity-->
 
@@ -138,7 +141,7 @@
   <br/>
   
   <!--✍️QUOTE-START-->
-> Talk is cheap. Show me the code. — Linus Torvalds
+> In C, it is easy to shoot yourself in the foot. In C++, it's harder, but when you do, you blow your whole leg off. — Bjarne Stroustrup
 <!--✍️QUOTE-END-->
 </div>
 </details>
