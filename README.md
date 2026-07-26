@@ -114,11 +114,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-- 🚀 Pushed to [quintin-lee/cmem](https://github.com/quintin-lee/cmem) (2026-07-25)
-- 🚀 Pushed to [quintin-lee/CORM](https://github.com/quintin-lee/CORM) (2026-07-25)
+- 🚀 Pushed to [quintin-lee/cmem](https://github.com/quintin-lee/cmem) (2026-07-26)
+- 🚀 Pushed to [quintin-lee/CORM](https://github.com/quintin-lee/CORM) (2026-07-26)
 - ✨ Created branch in [quintin-lee/cmem](https://github.com/quintin-lee/cmem) (2026-07-24)
 - 🚀 Pushed to [quintin-lee/csilk](https://github.com/quintin-lee/csilk) (2026-07-24)
-- 🚀 Pushed to [quintin-lee/agnes-video-creator](https://github.com/quintin-lee/agnes-video-creator) (2026-07-24)
 <!--END_SECTION:activity-->
 
 ## 🏆 GitHub Trophies
@@ -142,7 +141,7 @@
   <br/>
   
   <!--✍️QUOTE-START-->
-> In C, it is easy to shoot yourself in the foot. In C++, it's harder, but when you do, you blow your whole leg off. — Bjarne Stroustrup
+> Debugging is twice as hard as writing the code in the first place. — Brian Kernighan
 <!--✍️QUOTE-END-->
 </div>
 </details>
