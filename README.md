@@ -99,9 +99,9 @@
 ## 📂 Featured Projects
 
 <!-- START_SECTION:projects -->
+- [quintin-lee](https://github.com/quintin-lee/quintin-lee): No description
 - [cmem](https://github.com/quintin-lee/cmem): A C implementation of a memory management system, including heap allocation, free lists, and memory optimization techniques.
 - [CORM](https://github.com/quintin-lee/CORM): No description
-- [quintin-lee](https://github.com/quintin-lee/quintin-lee): No description
 - [csilk](https://github.com/quintin-lee/csilk): A lightweight, high-performance HTTP web framework written in C and built on top of libuv, llhttp, and cJSON.
 - [agnes-video-creator](https://github.com/quintin-lee/agnes-video-creator): No description
 - [shell-json](https://github.com/quintin-lee/shell-json): No description
@@ -116,8 +116,6 @@
 <!--START_SECTION:activity-->
 - 🚀 Pushed to [quintin-lee/cmem](https://github.com/quintin-lee/cmem) (2026-07-26)
 - 🚀 Pushed to [quintin-lee/CORM](https://github.com/quintin-lee/CORM) (2026-07-26)
-- ✨ Created branch in [quintin-lee/cmem](https://github.com/quintin-lee/cmem) (2026-07-24)
-- 🚀 Pushed to [quintin-lee/csilk](https://github.com/quintin-lee/csilk) (2026-07-24)
 <!--END_SECTION:activity-->
 
 ## 🏆 GitHub Trophies
@@ -141,7 +139,7 @@
   <br/>
   
   <!--✍️QUOTE-START-->
-> Debugging is twice as hard as writing the code in the first place. — Brian Kernighan
+> Code is like humor. When you have to explain it, it's bad. — Cory House
 <!--✍️QUOTE-END-->
 </div>
 </details>
