@@ -99,13 +99,13 @@
 ## 📂 Featured Projects
 
 <!-- START_SECTION:projects -->
-- [quintin-lee](https://github.com/quintin-lee/quintin-lee): No description
+- [clogx](https://github.com/quintin-lee/clogx): CLogX is a high-performance, thread-safe, and extensible logging library for C99, featuring YAML configuration, customizable log patterns, asynchronous logging, log rotation, and pluggable output sinks.
 - [cmem](https://github.com/quintin-lee/cmem): A C implementation of a memory management system, including heap allocation, free lists, and memory optimization techniques.
+- [quintin-lee](https://github.com/quintin-lee/quintin-lee): No description
 - [CORM](https://github.com/quintin-lee/CORM): No description
 - [csilk](https://github.com/quintin-lee/csilk): A lightweight, high-performance HTTP web framework written in C and built on top of libuv, llhttp, and cJSON.
 - [agnes-video-creator](https://github.com/quintin-lee/agnes-video-creator): No description
 - [shell-json](https://github.com/quintin-lee/shell-json): No description
-- [penv](https://github.com/quintin-lee/penv): Python venv manager
 <!-- END_SECTION:projects -->
 
 <details>
@@ -114,8 +114,9 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-- 🚀 Pushed to [quintin-lee/cmem](https://github.com/quintin-lee/cmem) (2026-07-26)
-- 🚀 Pushed to [quintin-lee/CORM](https://github.com/quintin-lee/CORM) (2026-07-26)
+- 🚀 Pushed to [quintin-lee/clogx](https://github.com/quintin-lee/clogx) (2026-07-28)
+- 🚀 Pushed to [quintin-lee/cmem](https://github.com/quintin-lee/cmem) (2026-07-27)
+- 🚀 Pushed to [quintin-lee/CORM](https://github.com/quintin-lee/CORM) (2026-07-27)
 <!--END_SECTION:activity-->
 
 ## 🏆 GitHub Trophies
@@ -139,7 +140,7 @@
   <br/>
   
   <!--✍️QUOTE-START-->
-> Code is like humor. When you have to explain it, it's bad. — Cory House
+> Talk is cheap. Show me the code. — Linus Torvalds
 <!--✍️QUOTE-END-->
 </div>
 </details>
