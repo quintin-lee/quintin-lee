@@ -100,12 +100,12 @@
 
 <!-- START_SECTION:projects -->
 - [clogx](https://github.com/quintin-lee/clogx): CLogX is a high-performance, thread-safe, and extensible logging library for C99, featuring YAML configuration, customizable log patterns, asynchronous logging, log rotation, and pluggable output sinks.
+- [cobalt](https://github.com/quintin-lee/cobalt): A Modern Object-Oriented Foundation Framework for C
 - [quintin-lee](https://github.com/quintin-lee/quintin-lee): No description
+- [NVCode](https://github.com/quintin-lee/NVCode): neovim 配置
 - [CORM](https://github.com/quintin-lee/CORM): No description
 - [cmem](https://github.com/quintin-lee/cmem): A C implementation of a memory management system, including heap allocation, free lists, and memory optimization techniques.
 - [csilk](https://github.com/quintin-lee/csilk): A lightweight, high-performance HTTP web framework written in C and built on top of libuv, llhttp, and cJSON.
-- [agnes-video-creator](https://github.com/quintin-lee/agnes-video-creator): No description
-- [shell-json](https://github.com/quintin-lee/shell-json): No description
 <!-- END_SECTION:projects -->
 
 <details>
@@ -114,9 +114,11 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-- 🚀 Pushed to [quintin-lee/clogx](https://github.com/quintin-lee/clogx) (2026-07-29)
-- 🔀 Closed PR in [quintin-lee/clogx](https://github.com/quintin-lee/clogx) (2026-07-28)
-- 🚀 Pushed to [quintin-lee/CORM](https://github.com/quintin-lee/CORM) (2026-07-28)
+- 🚀 Pushed to [quintin-lee/clogx](https://github.com/quintin-lee/clogx) (2026-07-30)
+- 🚀 Pushed to [quintin-lee/cobalt](https://github.com/quintin-lee/cobalt) (2026-07-30)
+- ✨ Created branch in [quintin-lee/cobalt](https://github.com/quintin-lee/cobalt) (2026-07-29)
+- 🚀 Pushed to [quintin-lee/NVCode](https://github.com/quintin-lee/NVCode) (2026-07-29)
+- 🚀 Pushed to [quintin-lee/CORM](https://github.com/quintin-lee/CORM) (2026-07-29)
 <!--END_SECTION:activity-->
 
 ## 🏆 GitHub Trophies
@@ -140,7 +142,7 @@
   <br/>
   
   <!--✍️QUOTE-START-->
-> The best error message is the one that never shows up. — Thomas Fuchs
+> Any fool can write code that a computer can understand. Good programmers write code that humans can understand. — Martin Fowler
 <!--✍️QUOTE-END-->
 </div>
 </details>
