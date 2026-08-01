@@ -99,12 +99,12 @@
 ## 📂 Featured Projects
 
 <!-- START_SECTION:projects -->
+- [cobalt](https://github.com/quintin-lee/cobalt): A Modern Object-Oriented Foundation Framework for C
+- [cmem](https://github.com/quintin-lee/cmem): A C implementation of a memory management system, including heap allocation, free lists, and memory optimization techniques.
 - [clogx](https://github.com/quintin-lee/clogx): CLogX is a high-performance, thread-safe, and extensible logging library for C99, featuring YAML configuration, customizable log patterns, asynchronous logging, log rotation, and pluggable output sinks.
 - [quintin-lee](https://github.com/quintin-lee/quintin-lee): No description
 - [CORM](https://github.com/quintin-lee/CORM): No description
-- [cobalt](https://github.com/quintin-lee/cobalt): A Modern Object-Oriented Foundation Framework for C
 - [NVCode](https://github.com/quintin-lee/NVCode): neovim 配置
-- [cmem](https://github.com/quintin-lee/cmem): A C implementation of a memory management system, including heap allocation, free lists, and memory optimization techniques.
 - [csilk](https://github.com/quintin-lee/csilk): A lightweight, high-performance HTTP web framework written in C and built on top of libuv, llhttp, and cJSON.
 <!-- END_SECTION:projects -->
 
@@ -114,8 +114,9 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-- 🚀 Pushed to [quintin-lee/clogx](https://github.com/quintin-lee/clogx) (2026-07-31)
-- 🚀 Pushed to [quintin-lee/CORM](https://github.com/quintin-lee/CORM) (2026-07-30)
+- 🚀 Pushed to [quintin-lee/cobalt](https://github.com/quintin-lee/cobalt) (2026-08-01)
+- 🚀 Pushed to [quintin-lee/cmem](https://github.com/quintin-lee/cmem) (2026-08-01)
+- 🚀 Pushed to [quintin-lee/clogx](https://github.com/quintin-lee/clogx) (2026-08-01)
 <!--END_SECTION:activity-->
 
 ## 🏆 GitHub Trophies
@@ -139,7 +140,7 @@
   <br/>
   
   <!--✍️QUOTE-START-->
-> Any fool can write code that a computer can understand. Good programmers write code that humans can understand. — Martin Fowler
+> Software is a great combination between artistry and engineering. — Bill Gates
 <!--✍️QUOTE-END-->
 </div>
 </details>
