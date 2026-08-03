@@ -100,8 +100,8 @@
 
 <!-- START_SECTION:projects -->
 - [clogx](https://github.com/quintin-lee/clogx): CLogX is a high-performance, thread-safe, and extensible logging library for C99, featuring YAML configuration, customizable log patterns, asynchronous logging, log rotation, and pluggable output sinks.
-- [cobalt](https://github.com/quintin-lee/cobalt): A Modern Object-Oriented Foundation Framework for C
 - [cmem](https://github.com/quintin-lee/cmem): A C implementation of a memory management system, including heap allocation, free lists, and memory optimization techniques.
+- [cobalt](https://github.com/quintin-lee/cobalt): A Modern Object-Oriented Foundation Framework for C
 - [quintin-lee](https://github.com/quintin-lee/quintin-lee): No description
 - [CORM](https://github.com/quintin-lee/CORM): No description
 - [NVCode](https://github.com/quintin-lee/NVCode): neovim 配置
@@ -114,9 +114,9 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-- 🚀 Pushed to [quintin-lee/clogx](https://github.com/quintin-lee/clogx) (2026-08-02)
+- 🚀 Pushed to [quintin-lee/clogx](https://github.com/quintin-lee/clogx) (2026-08-03)
+- 🚀 Pushed to [quintin-lee/cmem](https://github.com/quintin-lee/cmem) (2026-08-03)
 - 🚀 Pushed to [quintin-lee/cobalt](https://github.com/quintin-lee/cobalt) (2026-08-02)
-- 🚀 Pushed to [quintin-lee/cmem](https://github.com/quintin-lee/cmem) (2026-08-02)
 <!--END_SECTION:activity-->
 
 ## 🏆 GitHub Trophies
@@ -140,7 +140,7 @@
   <br/>
   
   <!--✍️QUOTE-START-->
-> The only way to learn a new programming language is by writing programs in it. — Dennis Ritchie
+> The best error message is the one that never shows up. — Thomas Fuchs
 <!--✍️QUOTE-END-->
 </div>
 </details>
