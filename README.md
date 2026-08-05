@@ -100,9 +100,9 @@
 
 <!-- START_SECTION:projects -->
 - [clogx](https://github.com/quintin-lee/clogx): CLogX is a high-performance, thread-safe, and extensible logging library for C99, featuring YAML configuration, customizable log patterns, asynchronous logging, log rotation, and pluggable output sinks.
-- [cobalt](https://github.com/quintin-lee/cobalt): A Modern Object-Oriented Foundation Framework for C
-- [quintin-lee](https://github.com/quintin-lee/quintin-lee): No description
 - [cmem](https://github.com/quintin-lee/cmem): A C implementation of a memory management system, including heap allocation, free lists, and memory optimization techniques.
+- [quintin-lee](https://github.com/quintin-lee/quintin-lee): No description
+- [cobalt](https://github.com/quintin-lee/cobalt): A Modern Object-Oriented Foundation Framework for C
 - [CORM](https://github.com/quintin-lee/CORM): No description
 - [NVCode](https://github.com/quintin-lee/NVCode): neovim 配置
 - [csilk](https://github.com/quintin-lee/csilk): A lightweight, high-performance HTTP web framework written in C and built on top of libuv, llhttp, and cJSON.
@@ -114,9 +114,9 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-- 🚀 Pushed to [quintin-lee/clogx](https://github.com/quintin-lee/clogx) (2026-08-04)
+- 🚀 Pushed to [quintin-lee/clogx](https://github.com/quintin-lee/clogx) (2026-08-05)
+- 🚀 Pushed to [quintin-lee/cmem](https://github.com/quintin-lee/cmem) (2026-08-05)
 - 🚀 Pushed to [quintin-lee/cobalt](https://github.com/quintin-lee/cobalt) (2026-08-04)
-- 🚀 Pushed to [quintin-lee/cmem](https://github.com/quintin-lee/cmem) (2026-08-03)
 <!--END_SECTION:activity-->
 
 ## 🏆 GitHub Trophies
