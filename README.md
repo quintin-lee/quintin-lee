@@ -99,13 +99,13 @@
 ## 📂 Featured Projects
 
 <!-- START_SECTION:projects -->
-- [cmem](https://github.com/quintin-lee/cmem): A C implementation of a memory management system, including heap allocation, free lists, and memory optimization techniques.
 - [clogx](https://github.com/quintin-lee/clogx): CLogX is a high-performance, thread-safe, and extensible logging library for C99, featuring YAML configuration, customizable log patterns, asynchronous logging, log rotation, and pluggable output sinks.
-- [quintin-lee](https://github.com/quintin-lee/quintin-lee): No description
+- [loomworks](https://github.com/quintin-lee/loomworks): Industrial-grade C11 concurrency library featuring a **thread pool** and a **stackful coroutine** subsystem.
 - [cobalt](https://github.com/quintin-lee/cobalt): A Modern Object-Oriented Foundation Framework for C
-- [CORM](https://github.com/quintin-lee/CORM): No description
+- [quintin-lee](https://github.com/quintin-lee/quintin-lee): No description
+- [cmem](https://github.com/quintin-lee/cmem): A C implementation of a memory management system, including heap allocation, free lists, and memory optimization techniques.
 - [NVCode](https://github.com/quintin-lee/NVCode): neovim 配置
-- [csilk](https://github.com/quintin-lee/csilk): A lightweight, high-performance HTTP web framework written in C and built on top of libuv, llhttp, and cJSON.
+- [CORM](https://github.com/quintin-lee/CORM): No description
 <!-- END_SECTION:projects -->
 
 <details>
@@ -114,8 +114,11 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
+- 🚀 Pushed to [quintin-lee/clogx](https://github.com/quintin-lee/clogx) (2026-08-07)
+- 🚀 Pushed to [quintin-lee/loomworks](https://github.com/quintin-lee/loomworks) (2026-08-07)
+- 🔀 Closed PR in [quintin-lee/clogx](https://github.com/quintin-lee/clogx) (2026-08-07)
+- 🚀 Pushed to [quintin-lee/cobalt](https://github.com/quintin-lee/cobalt) (2026-08-07)
 - 🚀 Pushed to [quintin-lee/cmem](https://github.com/quintin-lee/cmem) (2026-08-06)
-- 🚀 Pushed to [quintin-lee/clogx](https://github.com/quintin-lee/clogx) (2026-08-05)
 <!--END_SECTION:activity-->
 
 ## 🏆 GitHub Trophies
@@ -139,7 +142,7 @@
   <br/>
   
   <!--✍️QUOTE-START-->
-> In C, it is easy to shoot yourself in the foot. In C++, it's harder, but when you do, you blow your whole leg off. — Bjarne Stroustrup
+> The most dangerous phrase in the language is: we've always done it this way. — Grace Hopper
 <!--✍️QUOTE-END-->
 </div>
 </details>
