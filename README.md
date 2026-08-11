@@ -99,13 +99,13 @@
 ## 📂 Featured Projects
 
 <!-- START_SECTION:projects -->
-- [csilk](https://github.com/quintin-lee/csilk): A lightweight, high-performance HTTP web framework written in C and built on top of libuv, llhttp, and cJSON.
-- [quintin-lee](https://github.com/quintin-lee/quintin-lee): No description
 - [loomworks](https://github.com/quintin-lee/loomworks): Industrial-grade C11 concurrency library featuring a **thread pool** and a **stackful coroutine** subsystem.
+- [quintin-lee](https://github.com/quintin-lee/quintin-lee): No description
+- [CORM](https://github.com/quintin-lee/CORM): No description
+- [csilk](https://github.com/quintin-lee/csilk): A lightweight, high-performance HTTP web framework written in C and built on top of libuv, llhttp, and cJSON.
 - [cobalt](https://github.com/quintin-lee/cobalt): A Modern Object-Oriented Foundation Framework for C
 - [cmem](https://github.com/quintin-lee/cmem): A C implementation of a memory management system, including heap allocation, free lists, and memory optimization techniques.
 - [clogx](https://github.com/quintin-lee/clogx): CLogX is a high-performance, thread-safe, and extensible logging library for C99, featuring YAML configuration, customizable log patterns, asynchronous logging, log rotation, and pluggable output sinks.
-- [NVCode](https://github.com/quintin-lee/NVCode): neovim 配置
 <!-- END_SECTION:projects -->
 
 <details>
@@ -114,8 +114,9 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
+- 🚀 Pushed to [quintin-lee/loomworks](https://github.com/quintin-lee/loomworks) (2026-08-11)
+- 🚀 Pushed to [quintin-lee/CORM](https://github.com/quintin-lee/CORM) (2026-08-10)
 - 🚀 Pushed to [quintin-lee/csilk](https://github.com/quintin-lee/csilk) (2026-08-10)
-- 🚀 Pushed to [quintin-lee/loomworks](https://github.com/quintin-lee/loomworks) (2026-08-09)
 - 🚀 Pushed to [quintin-lee/cobalt](https://github.com/quintin-lee/cobalt) (2026-08-09)
 <!--END_SECTION:activity-->
 
@@ -140,7 +141,7 @@
   <br/>
   
   <!--✍️QUOTE-START-->
-> First, solve the problem. Then, write the code. — John Johnson
+> In C, it is easy to shoot yourself in the foot. In C++, it's harder, but when you do, you blow your whole leg off. — Bjarne Stroustrup
 <!--✍️QUOTE-END-->
 </div>
 </details>
