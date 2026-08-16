@@ -99,13 +99,13 @@
 ## 📂 Featured Projects
 
 <!-- START_SECTION:projects -->
-- [Minefolio](https://github.com/quintin-lee/Minefolio): A lightweight, self-hosted personal wealth and asset management platform for tracking assets, liabilities, transactions, income, expenses, and net worth.
-- [quintin-lee](https://github.com/quintin-lee/quintin-lee): No description
 - [csilk](https://github.com/quintin-lee/csilk): A lightweight, high-performance HTTP web framework written in C and built on top of libuv, llhttp, and cJSON.
+- [quintin-lee](https://github.com/quintin-lee/quintin-lee): No description
 - [loomworks](https://github.com/quintin-lee/loomworks): Industrial-grade C11 concurrency library featuring a **thread pool** and a **stackful coroutine** subsystem.
 - [CORM](https://github.com/quintin-lee/CORM): No description
 - [cobalt](https://github.com/quintin-lee/cobalt): A Modern Object-Oriented Foundation Framework for C
 - [cmem](https://github.com/quintin-lee/cmem): A C implementation of a memory management system, including heap allocation, free lists, and memory optimization techniques.
+- [clogx](https://github.com/quintin-lee/clogx): CLogX is a high-performance, thread-safe, and extensible logging library for C99, featuring YAML configuration, customizable log patterns, asynchronous logging, log rotation, and pluggable output sinks.
 <!-- END_SECTION:projects -->
 
 <details>
@@ -114,9 +114,8 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-- 🚀 Pushed to [quintin-lee/Minefolio](https://github.com/quintin-lee/Minefolio) (2026-08-15)
-- 🚀 Pushed to [quintin-lee/csilk](https://github.com/quintin-lee/csilk) (2026-08-14)
-- 🚀 Pushed to [quintin-lee/loomworks](https://github.com/quintin-lee/loomworks) (2026-08-14)
+- 🚀 Pushed to [quintin-lee/csilk](https://github.com/quintin-lee/csilk) (2026-08-16)
+- 🚀 Pushed to [quintin-lee/loomworks](https://github.com/quintin-lee/loomworks) (2026-08-15)
 <!--END_SECTION:activity-->
 
 ## 🏆 GitHub Trophies
@@ -140,7 +139,7 @@
   <br/>
   
   <!--✍️QUOTE-START-->
-> Software is a great combination between artistry and engineering. — Bill Gates
+> Code is like humor. When you have to explain it, it's bad. — Cory House
 <!--✍️QUOTE-END-->
 </div>
 </details>
