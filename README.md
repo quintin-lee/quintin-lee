@@ -99,8 +99,8 @@
 ## 📂 Featured Projects
 
 <!-- START_SECTION:projects -->
-- [quintin-lee](https://github.com/quintin-lee/quintin-lee): No description
 - [csilk](https://github.com/quintin-lee/csilk): A lightweight, high-performance HTTP web framework written in C and built on top of libuv, llhttp, and cJSON.
+- [quintin-lee](https://github.com/quintin-lee/quintin-lee): No description
 - [loomworks](https://github.com/quintin-lee/loomworks): Industrial-grade C11 concurrency library featuring a **thread pool** and a **stackful coroutine** subsystem.
 - [CORM](https://github.com/quintin-lee/CORM): No description
 - [cobalt](https://github.com/quintin-lee/cobalt): A Modern Object-Oriented Foundation Framework for C
@@ -114,9 +114,9 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-- 🚀 Pushed to [quintin-lee/csilk](https://github.com/quintin-lee/csilk) (2026-08-20)
+- 🚀 Pushed to [quintin-lee/csilk](https://github.com/quintin-lee/csilk) (2026-08-22)
+- 🚀 Pushed to [quintin-lee/loomworks](https://github.com/quintin-lee/loomworks) (2026-08-21)
 - ⭐ Starred [agentscope-ai/QwenPaw](https://github.com/agentscope-ai/QwenPaw) (2026-08-19)
-- 🚀 Pushed to [quintin-lee/loomworks](https://github.com/quintin-lee/loomworks) (2026-08-19)
 <!--END_SECTION:activity-->
 
 ## 🏆 GitHub Trophies
@@ -140,7 +140,7 @@
   <br/>
   
   <!--✍️QUOTE-START-->
-> Software is a great combination between artistry and engineering. — Bill Gates
+> The most dangerous phrase in the language is: we've always done it this way. — Grace Hopper
 <!--✍️QUOTE-END-->
 </div>
 </details>
