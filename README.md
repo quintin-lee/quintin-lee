@@ -99,13 +99,13 @@
 ## 📂 Featured Projects
 
 <!-- START_SECTION:projects -->
+- [Aegis](https://github.com/quintin-lee/Aegis): Autonomous Agent Execution & Intelligence System
+- [quintin-lee](https://github.com/quintin-lee/quintin-lee): No description
 - [csilk](https://github.com/quintin-lee/csilk): A lightweight, high-performance HTTP web framework written in C and built on top of libuv, llhttp, and cJSON.
 - [loomworks](https://github.com/quintin-lee/loomworks): Industrial-grade C11 concurrency library featuring a **thread pool** and a **stackful coroutine** subsystem.
-- [quintin-lee](https://github.com/quintin-lee/quintin-lee): No description
 - [CORM](https://github.com/quintin-lee/CORM): No description
 - [cobalt](https://github.com/quintin-lee/cobalt): A Modern Object-Oriented Foundation Framework for C
 - [cmem](https://github.com/quintin-lee/cmem): A C implementation of a memory management system, including heap allocation, free lists, and memory optimization techniques.
-- [clogx](https://github.com/quintin-lee/clogx): CLogX is a high-performance, thread-safe, and extensible logging library for C99, featuring YAML configuration, customizable log patterns, asynchronous logging, log rotation, and pluggable output sinks.
 <!-- END_SECTION:projects -->
 
 <details>
@@ -114,7 +114,9 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
+- 🚀 Pushed to [quintin-lee/Aegis](https://github.com/quintin-lee/Aegis) (2026-08-27)
 - 🚀 Pushed to [quintin-lee/csilk](https://github.com/quintin-lee/csilk) (2026-08-26)
+- ✨ Created branch in [quintin-lee/Aegis](https://github.com/quintin-lee/Aegis) (2026-08-26)
 - 🚀 Pushed to [quintin-lee/loomworks](https://github.com/quintin-lee/loomworks) (2026-08-25)
 <!--END_SECTION:activity-->
 
@@ -139,7 +141,7 @@
   <br/>
   
   <!--✍️QUOTE-START-->
-> Simplicity is the soul of efficiency. — Austin Freeman
+> First, solve the problem. Then, write the code. — John Johnson
 <!--✍️QUOTE-END-->
 </div>
 </details>
