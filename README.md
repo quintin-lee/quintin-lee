@@ -99,9 +99,9 @@
 ## 📂 Featured Projects
 
 <!-- START_SECTION:projects -->
-- [quintin-lee](https://github.com/quintin-lee/quintin-lee): No description
-- [csilk](https://github.com/quintin-lee/csilk): CSilk is a high-performance, modular server runtime and HTTP framework written in modern C (C23). It is designed for building low-latency network services, HTTP applications, AI-enabled services, workflow systems, and other long-running server-side applications.
 - [Minefolio](https://github.com/quintin-lee/Minefolio): A lightweight, self-hosted personal wealth and asset management platform for tracking assets, liabilities, transactions, income, expenses, and net worth.
+- [csilk](https://github.com/quintin-lee/csilk): CSilk is a high-performance, modular server runtime and HTTP framework written in modern C (C23). It is designed for building low-latency network services, HTTP applications, AI-enabled services, workflow systems, and other long-running server-side applications.
+- [quintin-lee](https://github.com/quintin-lee/quintin-lee): No description
 - [Aegis](https://github.com/quintin-lee/Aegis): Autonomous Agent Execution & Intelligence System
 - [ssh-manager](https://github.com/quintin-lee/ssh-manager): 基于 expect 工具实现 SSH 自动登录服务器，管理服务器 SSH 连接。 支持密码认证和密钥认证等多种方式，提供了交互式的终端界面。
 - [loomworks](https://github.com/quintin-lee/loomworks): Industrial-grade C11 concurrency library featuring a **thread pool** and a **stackful coroutine** subsystem.
@@ -114,10 +114,11 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-- 🚀 Pushed to [quintin-lee/Aegis](https://github.com/quintin-lee/Aegis) (2026-08-28)
 - 🚀 Pushed to [quintin-lee/csilk](https://github.com/quintin-lee/csilk) (2026-08-29)
+- 🚀 Pushed to [quintin-lee/Minefolio](https://github.com/quintin-lee/Minefolio) (2026-08-29)
+- ⭐ Starred [workweave/router](https://github.com/workweave/router) (2026-08-30)
+- 🚀 Pushed to [quintin-lee/Aegis](https://github.com/quintin-lee/Aegis) (2026-08-28)
 - 🚀 Pushed to [quintin-lee/ssh-manager](https://github.com/quintin-lee/ssh-manager) (2026-08-28)
-- ✨ Created branch in [quintin-lee/Aegis](https://github.com/quintin-lee/Aegis) (2026-08-26)
 <!--END_SECTION:activity-->
 
 ## 🏆 GitHub Trophies
@@ -141,7 +142,7 @@
   <br/>
   
   <!--✍️QUOTE-START-->
-> Talk is cheap. Show me the code. — Linus Torvalds
+> The most dangerous phrase in the language is: we've always done it this way. — Grace Hopper
 <!--✍️QUOTE-END-->
 </div>
 </details>
