@@ -99,8 +99,8 @@
 ## 📂 Featured Projects
 
 <!-- START_SECTION:projects -->
-- [Minefolio](https://github.com/quintin-lee/Minefolio): A lightweight, self-hosted personal wealth and asset management platform for tracking assets, liabilities, transactions, income, expenses, and net worth.
 - [quintin-lee](https://github.com/quintin-lee/quintin-lee): No description
+- [Minefolio](https://github.com/quintin-lee/Minefolio): A lightweight, self-hosted personal wealth and asset management platform for tracking assets, liabilities, transactions, income, expenses, and net worth.
 - [Aegis](https://github.com/quintin-lee/Aegis): Autonomous Agent Execution & Intelligence System
 - [csilk](https://github.com/quintin-lee/csilk): CSilk is a high-performance, modular server runtime and HTTP framework written in modern C (C23). It is designed for building low-latency network services, HTTP applications, AI-enabled services, workflow systems, and other long-running server-side applications.
 - [ssh-manager](https://github.com/quintin-lee/ssh-manager): 基于 expect 工具实现 SSH 自动登录服务器，管理服务器 SSH 连接。 支持密码认证和密钥认证等多种方式，提供了交互式的终端界面。
@@ -114,10 +114,9 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
+- 🚀 Pushed to [quintin-lee/Minefolio](https://github.com/quintin-lee/Minefolio) (2026-09-02)
 - 🚀 Pushed to [quintin-lee/Aegis](https://github.com/quintin-lee/Aegis) (2026-09-01)
-- 🚀 Pushed to [quintin-lee/Minefolio](https://github.com/quintin-lee/Minefolio) (2026-09-01)
 - 🚀 Pushed to [quintin-lee/csilk](https://github.com/quintin-lee/csilk) (2026-08-29)
-- ⭐ Starred [workweave/router](https://github.com/workweave/router) (2026-08-30)
 <!--END_SECTION:activity-->
 
 ## 🏆 GitHub Trophies
@@ -141,7 +140,7 @@
   <br/>
   
   <!--✍️QUOTE-START-->
-> Talk is cheap. Show me the code. — Linus Torvalds
+> Any fool can write code that a computer can understand. Good programmers write code that humans can understand. — Martin Fowler
 <!--✍️QUOTE-END-->
 </div>
 </details>
