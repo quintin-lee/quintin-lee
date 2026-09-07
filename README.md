@@ -100,8 +100,8 @@
 
 <!-- START_SECTION:projects -->
 - [Minefolio](https://github.com/quintin-lee/Minefolio): A lightweight, self-hosted personal wealth and asset management platform for tracking assets, liabilities, transactions, income, expenses, and net worth.
-- [cobalt](https://github.com/quintin-lee/cobalt): A Modern Object-Oriented Foundation Framework for C
 - [quintin-lee](https://github.com/quintin-lee/quintin-lee): No description
+- [cobalt](https://github.com/quintin-lee/cobalt): A Modern Object-Oriented Foundation Framework for C
 - [Aegis](https://github.com/quintin-lee/Aegis): Autonomous Agent Execution & Intelligence System
 - [CORM](https://github.com/quintin-lee/CORM): No description
 - [csilk](https://github.com/quintin-lee/csilk): CSilk is a high-performance, modular server runtime and HTTP framework written in modern C (C23). It is designed for building low-latency network services, HTTP applications, AI-enabled services, workflow systems, and other long-running server-side applications.
@@ -114,10 +114,11 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-- 🚀 Pushed to [quintin-lee/cobalt](https://github.com/quintin-lee/cobalt) (2026-09-06)
-- 🚀 Pushed to [quintin-lee/csilk](https://github.com/quintin-lee/csilk) (2026-09-06)
 - 🚀 Pushed to [quintin-lee/Minefolio](https://github.com/quintin-lee/Minefolio) (2026-09-04)
-- 🚀 Pushed to [quintin-lee/Aegis](https://github.com/quintin-lee/Aegis) (2026-09-03)
+- ⭐ Starred [quintin-lee/cobalt](https://github.com/quintin-lee/cobalt) (2026-09-06)
+- 🔀 Closed PR in [quintin-lee/cobalt](https://github.com/quintin-lee/cobalt) (2026-09-05)
+- 🚀 Pushed to [quintin-lee/cobalt](https://github.com/quintin-lee/cobalt) (2026-09-06)
+- 🚀 Pushed to [quintin-lee/Aegis](https://github.com/quintin-lee/Aegis) (2026-09-04)
 <!--END_SECTION:activity-->
 
 ## 🏆 GitHub Trophies
@@ -141,7 +142,7 @@
   <br/>
   
   <!--✍️QUOTE-START-->
-> In C, it is easy to shoot yourself in the foot. In C++, it's harder, but when you do, you blow your whole leg off. — Bjarne Stroustrup
+> Simplicity is the soul of efficiency. — Austin Freeman
 <!--✍️QUOTE-END-->
 </div>
 </details>
