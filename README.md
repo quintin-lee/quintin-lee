@@ -99,8 +99,8 @@
 ## 📂 Featured Projects
 
 <!-- START_SECTION:projects -->
-- [Minefolio](https://github.com/quintin-lee/Minefolio): A lightweight, self-hosted personal wealth and asset management platform for tracking assets, liabilities, transactions, income, expenses, and net worth.
 - [quintin-lee](https://github.com/quintin-lee/quintin-lee): No description
+- [Minefolio](https://github.com/quintin-lee/Minefolio): A lightweight, self-hosted personal wealth and asset management platform for tracking assets, liabilities, transactions, income, expenses, and net worth.
 - [Aegis](https://github.com/quintin-lee/Aegis): Autonomous Agent Execution & Intelligence System
 - [loomworks](https://github.com/quintin-lee/loomworks): Industrial-grade C11 concurrency library featuring a **thread pool** and a **stackful coroutine** subsystem.
 - [cobalt](https://github.com/quintin-lee/cobalt): A Modern Object-Oriented Foundation Framework for C
@@ -114,11 +114,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-- 🚀 Pushed to [quintin-lee/Aegis](https://github.com/quintin-lee/Aegis) (2026-09-11)
+- 🚀 Pushed to [quintin-lee/csilk](https://github.com/quintin-lee/csilk) (2026-09-13)
 - 🚀 Pushed to [quintin-lee/Minefolio](https://github.com/quintin-lee/Minefolio) (2026-09-12)
+- 🚀 Pushed to [quintin-lee/Aegis](https://github.com/quintin-lee/Aegis) (2026-09-11)
 - 🚀 Pushed to [quintin-lee/loomworks](https://github.com/quintin-lee/loomworks) (2026-09-10)
-- 🚀 Pushed to [quintin-lee/csilk](https://github.com/quintin-lee/csilk) (2026-09-10)
-- ✨ Created branch in [quintin-lee/Minefolio](https://github.com/quintin-lee/Minefolio) (2026-09-09)
 <!--END_SECTION:activity-->
 
 ## 🏆 GitHub Trophies
@@ -142,7 +141,7 @@
   <br/>
   
   <!--✍️QUOTE-START-->
-> Code is like humor. When you have to explain it, it's bad. — Cory House
+> Talk is cheap. Show me the code. — Linus Torvalds
 <!--✍️QUOTE-END-->
 </div>
 </details>
