@@ -99,9 +99,9 @@
 ## 📂 Featured Projects
 
 <!-- START_SECTION:projects -->
-- [aigate](https://github.com/quintin-lee/aigate): A lightweight, secure, and observable AI Gateway written in C11.
-- [quintin-lee](https://github.com/quintin-lee/quintin-lee): No description
 - [mcpkit-c](https://github.com/quintin-lee/mcpkit-c): mcpkit-c is a modular C23 SDK and runtime for building MCP servers, clients, and interactive MCP Apps.
+- [quintin-lee](https://github.com/quintin-lee/quintin-lee): No description
+- [aigate](https://github.com/quintin-lee/aigate): A lightweight, secure, and observable AI Gateway written in C11.
 - [Minefolio](https://github.com/quintin-lee/Minefolio): A lightweight, self-hosted personal wealth and asset management platform for tracking assets, liabilities, transactions, income, expenses, and net worth.
 - [loomworks](https://github.com/quintin-lee/loomworks): Industrial-grade C11 concurrency library featuring a **thread pool** and a **stackful coroutine** subsystem.
 - [Aegis](https://github.com/quintin-lee/Aegis): Autonomous Agent Execution & Intelligence System
@@ -114,10 +114,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
+- 🚀 Pushed to [quintin-lee/mcpkit-c](https://github.com/quintin-lee/mcpkit-c) (2026-09-20)
 - 🚀 Pushed to [quintin-lee/aigate](https://github.com/quintin-lee/aigate) (2026-09-19)
 - 🚀 Pushed to [quintin-lee/Minefolio](https://github.com/quintin-lee/Minefolio) (2026-09-17)
 - ✨ Created branch in [quintin-lee/aigate](https://github.com/quintin-lee/aigate) (2026-09-17)
-- 🚀 Pushed to [quintin-lee/mcpkit-c](https://github.com/quintin-lee/mcpkit-c) (2026-09-17)
 - 🚀 Pushed to [quintin-lee/loomworks](https://github.com/quintin-lee/loomworks) (2026-09-16)
 <!--END_SECTION:activity-->
 
@@ -142,7 +142,7 @@
   <br/>
   
   <!--✍️QUOTE-START-->
-> Talk is cheap. Show me the code. — Linus Torvalds
+> Code is like humor. When you have to explain it, it's bad. — Cory House
 <!--✍️QUOTE-END-->
 </div>
 </details>
