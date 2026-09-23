@@ -100,8 +100,8 @@
 
 <!-- START_SECTION:projects -->
 - [mcpkit-c](https://github.com/quintin-lee/mcpkit-c): mcpkit-c is a modular C23 SDK and runtime for building MCP servers, clients, and interactive MCP Apps.
-- [quintin-lee](https://github.com/quintin-lee/quintin-lee): No description
 - [aigate](https://github.com/quintin-lee/aigate): A lightweight, secure, and observable AI Gateway written in C11.
+- [quintin-lee](https://github.com/quintin-lee/quintin-lee): No description
 - [loomworks](https://github.com/quintin-lee/loomworks): Industrial-grade C11 concurrency library featuring a **thread pool** and a **stackful coroutine** subsystem.
 - [Minefolio](https://github.com/quintin-lee/Minefolio): A lightweight, self-hosted personal wealth and asset management platform for tracking assets, liabilities, transactions, income, expenses, and net worth.
 - [Aegis](https://github.com/quintin-lee/Aegis): Autonomous Agent Execution & Intelligence System
@@ -114,8 +114,8 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-- 🚀 Pushed to [quintin-lee/mcpkit-c](https://github.com/quintin-lee/mcpkit-c) (2026-09-22)
-- 🚀 Pushed to [quintin-lee/aigate](https://github.com/quintin-lee/aigate) (2026-09-21)
+- 🚀 Pushed to [quintin-lee/mcpkit-c](https://github.com/quintin-lee/mcpkit-c) (2026-09-23)
+- 🚀 Pushed to [quintin-lee/aigate](https://github.com/quintin-lee/aigate) (2026-09-22)
 - 🚀 Pushed to [quintin-lee/loomworks](https://github.com/quintin-lee/loomworks) (2026-09-20)
 <!--END_SECTION:activity-->
 
@@ -140,7 +140,7 @@
   <br/>
   
   <!--✍️QUOTE-START-->
-> In C, it is easy to shoot yourself in the foot. In C++, it's harder, but when you do, you blow your whole leg off. — Bjarne Stroustrup
+> The most dangerous phrase in the language is: we've always done it this way. — Grace Hopper
 <!--✍️QUOTE-END-->
 </div>
 </details>
