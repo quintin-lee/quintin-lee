@@ -114,8 +114,7 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-- 🚀 Pushed to [quintin-lee/aigate](https://github.com/quintin-lee/aigate) (2026-09-28)
-- ✨ Created branch in [quintin-lee/aigate](https://github.com/quintin-lee/aigate) (2026-09-26)
+- 🚀 Pushed to [quintin-lee/aigate](https://github.com/quintin-lee/aigate) (2026-09-29)
 <!--END_SECTION:activity-->
 
 ## 🏆 GitHub Trophies
@@ -139,7 +138,7 @@
   <br/>
   
   <!--✍️QUOTE-START-->
-> Simplicity is the soul of efficiency. — Austin Freeman
+> In C, it is easy to shoot yourself in the foot. In C++, it's harder, but when you do, you blow your whole leg off. — Bjarne Stroustrup
 <!--✍️QUOTE-END-->
 </div>
 </details>
