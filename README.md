@@ -114,7 +114,7 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-- 🚀 Pushed to [quintin-lee/aigate](https://github.com/quintin-lee/aigate) (2026-09-29)
+- 🚀 Pushed to [quintin-lee/aigate](https://github.com/quintin-lee/aigate) (2026-09-30)
 <!--END_SECTION:activity-->
 
 ## 🏆 GitHub Trophies
@@ -138,7 +138,7 @@
   <br/>
   
   <!--✍️QUOTE-START-->
-> In C, it is easy to shoot yourself in the foot. In C++, it's harder, but when you do, you blow your whole leg off. — Bjarne Stroustrup
+> The most dangerous phrase in the language is: we've always done it this way. — Grace Hopper
 <!--✍️QUOTE-END-->
 </div>
 </details>
