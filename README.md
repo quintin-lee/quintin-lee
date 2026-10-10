@@ -99,13 +99,13 @@
 ## 📂 Featured Projects
 
 <!-- START_SECTION:projects -->
-- [mcpkit-c](https://github.com/quintin-lee/mcpkit-c): mcpkit-c is a modular C23 SDK and runtime for building MCP servers, clients, and interactive MCP Apps.
-- [quintin-lee](https://github.com/quintin-lee/quintin-lee): No description
-- [aigate](https://github.com/quintin-lee/aigate): A lightweight, secure, and observable AI Gateway written in C11.
-- [clogx](https://github.com/quintin-lee/clogx): CLogX is a high-performance, thread-safe, and extensible logging library for C99, featuring YAML configuration, customizable log patterns, asynchronous logging, log rotation, and pluggable output sinks.
-- [loomworks](https://github.com/quintin-lee/loomworks): Industrial-grade C11 concurrency library featuring a **thread pool** and a **stackful coroutine** subsystem.
-- [Minefolio](https://github.com/quintin-lee/Minefolio): A lightweight, self-hosted personal wealth and asset management platform for tracking assets, liabilities, transactions, income, expenses, and net worth.
+- [rivus-agent](https://github.com/quintin-lee/rivus-agent): A lightweight, durable, and extensible AI Agent runtime powered by Go and Eino ADK.
 - [Aegis](https://github.com/quintin-lee/Aegis): Autonomous Agent Execution & Intelligence System
+- [clogx](https://github.com/quintin-lee/clogx): CLogX is a high-performance, thread-safe, and extensible logging library for C99, featuring YAML configuration, customizable log patterns, asynchronous logging, log rotation, and pluggable output sinks.
+- [aigate](https://github.com/quintin-lee/aigate): A lightweight, secure, and observable AI Gateway written in C11.
+- [quintin-lee](https://github.com/quintin-lee/quintin-lee): No description
+- [mcpkit-c](https://github.com/quintin-lee/mcpkit-c): mcpkit-c is a modular C23 SDK and runtime for building MCP servers, clients, and interactive MCP Apps.
+- [loomworks](https://github.com/quintin-lee/loomworks): Industrial-grade C11 concurrency library featuring a **thread pool** and a **stackful coroutine** subsystem.
 <!-- END_SECTION:projects -->
 
 <details>
@@ -114,11 +114,11 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-- 🚀 Pushed to [quintin-lee/mcpkit-c](https://github.com/quintin-lee/mcpkit-c) (2026-10-09)
-- 🚀 Pushed to [quintin-lee/aigate](https://github.com/quintin-lee/aigate) (2026-10-08)
+- 🚀 Pushed to [quintin-lee/Aegis](https://github.com/quintin-lee/Aegis) (2026-10-10)
 - 🚀 Pushed to [quintin-lee/clogx](https://github.com/quintin-lee/clogx) (2026-10-08)
-- 💬 Commented on issue in [quintin-lee/clogx](https://github.com/quintin-lee/clogx) (2026-10-08)
-- 🐛 Closed issue in [quintin-lee/clogx](https://github.com/quintin-lee/clogx) (2026-10-08)
+- 🚀 Pushed to [quintin-lee/aigate](https://github.com/quintin-lee/aigate) (2026-10-09)
+- 🚀 Pushed to [quintin-lee/mcpkit-c](https://github.com/quintin-lee/mcpkit-c) (2026-10-08)
+- 🚀 Pushed to [quintin-lee/rivus-agent](https://github.com/quintin-lee/rivus-agent) (2026-10-09)
 <!--END_SECTION:activity-->
 
 ## 🏆 GitHub Trophies
@@ -142,7 +142,7 @@
   <br/>
   
   <!--✍️QUOTE-START-->
-> Talk is cheap. Show me the code. — Linus Torvalds
+> The only way to learn a new programming language is by writing programs in it. — Dennis Ritchie
 <!--✍️QUOTE-END-->
 </div>
 </details>
