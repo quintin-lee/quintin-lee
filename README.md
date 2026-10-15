@@ -99,11 +99,11 @@
 ## 📂 Featured Projects
 
 <!-- START_SECTION:projects -->
-- [csilk](https://github.com/quintin-lee/csilk): CSilk is a high-performance, modular server runtime and HTTP framework written in modern C (C23). It is designed for building low-latency network services, HTTP applications, AI-enabled services, workflow systems, and other long-running server-side applications.
 - [Minefolio](https://github.com/quintin-lee/Minefolio): A lightweight, self-hosted personal wealth and asset management platform for tracking assets, liabilities, transactions, income, expenses, and net worth.
+- [rivus-agent](https://github.com/quintin-lee/rivus-agent): A lightweight, durable, and extensible AI Agent runtime powered by Go and Eino ADK.
+- [csilk](https://github.com/quintin-lee/csilk): CSilk is a high-performance, modular server runtime and HTTP framework written in modern C (C23). It is designed for building low-latency network services, HTTP applications, AI-enabled services, workflow systems, and other long-running server-side applications.
 - [aigate](https://github.com/quintin-lee/aigate): A lightweight, secure, and observable AI Gateway written in C11.
 - [quintin-lee](https://github.com/quintin-lee/quintin-lee): No description
-- [rivus-agent](https://github.com/quintin-lee/rivus-agent): A lightweight, durable, and extensible AI Agent runtime powered by Go and Eino ADK.
 - [mcpkit-c](https://github.com/quintin-lee/mcpkit-c): mcpkit-c is a modular C23 SDK and runtime for building MCP servers, clients, and interactive MCP Apps.
 - [clogx](https://github.com/quintin-lee/clogx): CLogX is a high-performance, thread-safe, and extensible logging library for C99, featuring YAML configuration, customizable log patterns, asynchronous logging, log rotation, and pluggable output sinks.
 <!-- END_SECTION:projects -->
@@ -114,11 +114,11 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
+- 🚀 Pushed to [quintin-lee/aigate](https://github.com/quintin-lee/aigate) (2026-10-14)
+- ⭐ Starred [torvalds/linux](https://github.com/torvalds/linux) (2026-10-15)
+- 🚀 Pushed to [quintin-lee/Minefolio](https://github.com/quintin-lee/Minefolio) (2026-10-13)
 - 🚀 Pushed to [quintin-lee/csilk](https://github.com/quintin-lee/csilk) (2026-10-14)
-- 🚀 Pushed to [quintin-lee/Minefolio](https://github.com/quintin-lee/Minefolio) (2026-10-14)
-- 🚀 Pushed to [quintin-lee/aigate](https://github.com/quintin-lee/aigate) (2026-10-13)
 - 🚀 Pushed to [quintin-lee/mcpkit-c](https://github.com/quintin-lee/mcpkit-c) (2026-10-12)
-- 🚀 Pushed to [quintin-lee/clogx](https://github.com/quintin-lee/clogx) (2026-10-11)
 <!--END_SECTION:activity-->
 
 ## 🏆 GitHub Trophies
@@ -142,7 +142,7 @@
   <br/>
   
   <!--✍️QUOTE-START-->
-> Make it work, make it right, make it fast. — Kent Beck
+> Debugging is twice as hard as writing the code in the first place. — Brian Kernighan
 <!--✍️QUOTE-END-->
 </div>
 </details>
