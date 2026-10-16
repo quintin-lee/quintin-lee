@@ -99,13 +99,13 @@
 ## 📂 Featured Projects
 
 <!-- START_SECTION:projects -->
-- [Minefolio](https://github.com/quintin-lee/Minefolio): A lightweight, self-hosted personal wealth and asset management platform for tracking assets, liabilities, transactions, income, expenses, and net worth.
 - [rivus-agent](https://github.com/quintin-lee/rivus-agent): A lightweight, durable, and extensible AI Agent runtime powered by Go and Eino ADK.
+- [Minefolio](https://github.com/quintin-lee/Minefolio): A lightweight, self-hosted personal wealth and asset management platform for tracking assets, liabilities, transactions, income, expenses, and net worth.
+- [cobalt](https://github.com/quintin-lee/cobalt): A Modern Object-Oriented Foundation Framework for C
+- [quintin-lee](https://github.com/quintin-lee/quintin-lee): No description
 - [csilk](https://github.com/quintin-lee/csilk): CSilk is a high-performance, modular server runtime and HTTP framework written in modern C (C23). It is designed for building low-latency network services, HTTP applications, AI-enabled services, workflow systems, and other long-running server-side applications.
 - [aigate](https://github.com/quintin-lee/aigate): A lightweight, secure, and observable AI Gateway written in C11.
-- [quintin-lee](https://github.com/quintin-lee/quintin-lee): No description
 - [mcpkit-c](https://github.com/quintin-lee/mcpkit-c): mcpkit-c is a modular C23 SDK and runtime for building MCP servers, clients, and interactive MCP Apps.
-- [clogx](https://github.com/quintin-lee/clogx): CLogX is a high-performance, thread-safe, and extensible logging library for C99, featuring YAML configuration, customizable log patterns, asynchronous logging, log rotation, and pluggable output sinks.
 <!-- END_SECTION:projects -->
 
 <details>
@@ -115,10 +115,10 @@
 
 <!--START_SECTION:activity-->
 - 🚀 Pushed to [quintin-lee/aigate](https://github.com/quintin-lee/aigate) (2026-10-14)
-- ⭐ Starred [torvalds/linux](https://github.com/torvalds/linux) (2026-10-15)
-- 🚀 Pushed to [quintin-lee/Minefolio](https://github.com/quintin-lee/Minefolio) (2026-10-13)
+- 🚀 Pushed to [quintin-lee/cobalt](https://github.com/quintin-lee/cobalt) (2026-10-15)
+- 🚀 Pushed to [quintin-lee/Minefolio](https://github.com/quintin-lee/Minefolio) (2026-10-14)
+- 🚀 Pushed to [quintin-lee/rivus-agent](https://github.com/quintin-lee/rivus-agent) (2026-10-15)
 - 🚀 Pushed to [quintin-lee/csilk](https://github.com/quintin-lee/csilk) (2026-10-14)
-- 🚀 Pushed to [quintin-lee/mcpkit-c](https://github.com/quintin-lee/mcpkit-c) (2026-10-12)
 <!--END_SECTION:activity-->
 
 ## 🏆 GitHub Trophies
@@ -142,7 +142,7 @@
   <br/>
   
   <!--✍️QUOTE-START-->
-> Debugging is twice as hard as writing the code in the first place. — Brian Kernighan
+> The only way to learn a new programming language is by writing programs in it. — Dennis Ritchie
 <!--✍️QUOTE-END-->
 </div>
 </details>
