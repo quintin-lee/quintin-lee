@@ -99,8 +99,8 @@
 ## 📂 Featured Projects
 
 <!-- START_SECTION:projects -->
-- [Minefolio](https://github.com/quintin-lee/Minefolio): A lightweight, self-hosted personal wealth and asset management platform for tracking assets, liabilities, transactions, income, expenses, and net worth.
 - [quintin-lee](https://github.com/quintin-lee/quintin-lee): No description
+- [Minefolio](https://github.com/quintin-lee/Minefolio): A lightweight, self-hosted personal wealth and asset management platform for tracking assets, liabilities, transactions, income, expenses, and net worth.
 - [NVCode](https://github.com/quintin-lee/NVCode): neovim 配置
 - [cmem](https://github.com/quintin-lee/cmem): A C implementation of a memory management system, including heap allocation, free lists, and memory optimization techniques.
 - [header.nvim](https://github.com/quintin-lee/header.nvim): No description
@@ -114,11 +114,11 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
+- 🚀 Pushed to [quintin-lee/Minefolio](https://github.com/quintin-lee/Minefolio) (2026-10-23)
 - 🚀 Pushed to [quintin-lee/NVCode](https://github.com/quintin-lee/NVCode) (2026-10-23)
 - 🚀 Pushed to [quintin-lee/header.nvim](https://github.com/quintin-lee/header.nvim) (2026-10-23)
 - 🚀 Pushed to [quintin-lee/cmem](https://github.com/quintin-lee/cmem) (2026-10-23)
 - 🚀 Pushed to [quintin-lee/rivus-agent](https://github.com/quintin-lee/rivus-agent) (2026-10-23)
-- 🚀 Pushed to [quintin-lee/loomworks](https://github.com/quintin-lee/loomworks) (2026-10-23)
 <!--END_SECTION:activity-->
 
 ## 🏆 GitHub Trophies
@@ -142,7 +142,7 @@
   <br/>
   
   <!--✍️QUOTE-START-->
-> First, solve the problem. Then, write the code. — John Johnson
+> Code is like humor. When you have to explain it, it's bad. — Cory House
 <!--✍️QUOTE-END-->
 </div>
 </details>
