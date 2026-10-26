@@ -99,12 +99,12 @@
 ## 📂 Featured Projects
 
 <!-- START_SECTION:projects -->
-- [quintin-lee](https://github.com/quintin-lee/quintin-lee): No description
+- [rivus-agent](https://github.com/quintin-lee/rivus-agent): A lightweight, durable, and extensible AI Agent runtime powered by Go and Eino ADK.
 - [Minefolio](https://github.com/quintin-lee/Minefolio): A lightweight, self-hosted personal wealth and asset management platform for tracking assets, liabilities, transactions, income, expenses, and net worth.
+- [quintin-lee](https://github.com/quintin-lee/quintin-lee): No description
 - [NVCode](https://github.com/quintin-lee/NVCode): neovim 配置
 - [cmem](https://github.com/quintin-lee/cmem): A C implementation of a memory management system, including heap allocation, free lists, and memory optimization techniques.
 - [header.nvim](https://github.com/quintin-lee/header.nvim): No description
-- [rivus-agent](https://github.com/quintin-lee/rivus-agent): A lightweight, durable, and extensible AI Agent runtime powered by Go and Eino ADK.
 - [loomworks](https://github.com/quintin-lee/loomworks): Industrial-grade C11 concurrency library featuring a **thread pool** and a **stackful coroutine** subsystem.
 <!-- END_SECTION:projects -->
 
@@ -114,11 +114,11 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-- 🚀 Pushed to [quintin-lee/Minefolio](https://github.com/quintin-lee/Minefolio) (2026-10-23)
+- 🚀 Pushed to [quintin-lee/rivus-agent](https://github.com/quintin-lee/rivus-agent) (2026-10-26)
+- 🚀 Pushed to [quintin-lee/Minefolio](https://github.com/quintin-lee/Minefolio) (2026-10-25)
 - 🚀 Pushed to [quintin-lee/NVCode](https://github.com/quintin-lee/NVCode) (2026-10-23)
 - 🚀 Pushed to [quintin-lee/header.nvim](https://github.com/quintin-lee/header.nvim) (2026-10-23)
 - 🚀 Pushed to [quintin-lee/cmem](https://github.com/quintin-lee/cmem) (2026-10-23)
-- 🚀 Pushed to [quintin-lee/rivus-agent](https://github.com/quintin-lee/rivus-agent) (2026-10-23)
 <!--END_SECTION:activity-->
 
 ## 🏆 GitHub Trophies
