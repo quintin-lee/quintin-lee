@@ -99,10 +99,10 @@
 ## 📂 Featured Projects
 
 <!-- START_SECTION:projects -->
-- [rivus-agent](https://github.com/quintin-lee/rivus-agent): A lightweight, durable, and extensible AI Agent runtime powered by Go and Eino ADK.
-- [cdsl](https://github.com/quintin-lee/cdsl): An AI-powered DSL rule engine framework in C with three-layer architecture (Syntax → Abstract → Execution), natural language translation, multi-metric scoring, and tri-state audit results.
-- [quintin-lee](https://github.com/quintin-lee/quintin-lee): No description
 - [Minefolio](https://github.com/quintin-lee/Minefolio): A lightweight, self-hosted personal wealth and asset management platform for tracking assets, liabilities, transactions, income, expenses, and net worth.
+- [quintin-lee](https://github.com/quintin-lee/quintin-lee): No description
+- [cdsl](https://github.com/quintin-lee/cdsl): An AI-powered DSL rule engine framework in C with three-layer architecture (Syntax → Abstract → Execution), natural language translation, multi-metric scoring, and tri-state audit results.
+- [rivus-agent](https://github.com/quintin-lee/rivus-agent): A lightweight, durable, and extensible AI Agent runtime powered by Go and Eino ADK.
 - [mcpkit-c](https://github.com/quintin-lee/mcpkit-c): mcpkit-c is a modular C23 SDK and runtime for building MCP servers, clients, and interactive MCP Apps.
 - [cobalt](https://github.com/quintin-lee/cobalt): A Modern Object-Oriented Foundation Framework for C
 - [loomworks](https://github.com/quintin-lee/loomworks): Industrial-grade C11 concurrency library featuring a **thread pool** and a **stackful coroutine** subsystem.
@@ -114,11 +114,11 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-- 🚀 Pushed to [quintin-lee/Minefolio](https://github.com/quintin-lee/Minefolio) (2026-11-02)
+- 🚀 Pushed to [quintin-lee/Minefolio](https://github.com/quintin-lee/Minefolio) (2026-11-03)
+- 🚀 Pushed to [quintin-lee/cdsl](https://github.com/quintin-lee/cdsl) (2026-11-04)
+- 🚀 Pushed to [quintin-lee/rivus-agent](https://github.com/quintin-lee/rivus-agent) (2026-11-04)
 - 🚀 Pushed to [quintin-lee/mcpkit-c](https://github.com/quintin-lee/mcpkit-c) (2026-11-02)
 - 🚀 Pushed to [quintin-lee/cobalt](https://github.com/quintin-lee/cobalt) (2026-11-01)
-- 🚀 Pushed to [quintin-lee/rivus-agent](https://github.com/quintin-lee/rivus-agent) (2026-10-30)
-- 🚀 Pushed to [quintin-lee/loomworks](https://github.com/quintin-lee/loomworks) (2026-10-31)
 <!--END_SECTION:activity-->
 
 ## 🏆 GitHub Trophies
@@ -142,7 +142,7 @@
   <br/>
   
   <!--✍️QUOTE-START-->
-> The only way to learn a new programming language is by writing programs in it. — Dennis Ritchie
+> First, solve the problem. Then, write the code. — John Johnson
 <!--✍️QUOTE-END-->
 </div>
 </details>
