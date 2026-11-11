@@ -100,9 +100,9 @@
 
 <!-- START_SECTION:projects -->
 - [Minefolio](https://github.com/quintin-lee/Minefolio): A lightweight, self-hosted personal wealth and asset management platform for tracking assets, liabilities, transactions, income, expenses, and net worth.
-- [cdsl](https://github.com/quintin-lee/cdsl): An AI-powered DSL rule engine framework in C with three-layer architecture (Syntax → Abstract → Execution), natural language translation, multi-metric scoring, and tri-state audit results.
 - [mcpkit-c](https://github.com/quintin-lee/mcpkit-c): mcpkit-c is a modular C23 SDK and runtime for building MCP servers, clients, and interactive MCP Apps.
 - [quintin-lee](https://github.com/quintin-lee/quintin-lee): No description
+- [cdsl](https://github.com/quintin-lee/cdsl): An AI-powered DSL rule engine framework in C with three-layer architecture (Syntax → Abstract → Execution), natural language translation, multi-metric scoring, and tri-state audit results.
 - [rivus-agent](https://github.com/quintin-lee/rivus-agent): A lightweight, durable, and extensible AI Agent runtime powered by Go and Eino ADK.
 - [cobalt](https://github.com/quintin-lee/cobalt): A Modern Object-Oriented Foundation Framework for C
 - [loomworks](https://github.com/quintin-lee/loomworks): Industrial-grade C11 concurrency library featuring a **thread pool** and a **stackful coroutine** subsystem.
@@ -114,9 +114,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-- 🚀 Pushed to [quintin-lee/cdsl](https://github.com/quintin-lee/cdsl) (2026-11-08)
-- 🚀 Pushed to [quintin-lee/Minefolio](https://github.com/quintin-lee/Minefolio) (2026-11-09)
-- ⭐ Starred [quintin-lee/Minefolio](https://github.com/quintin-lee/Minefolio) (2026-11-09)
+- 🚀 Pushed to [quintin-lee/Minefolio](https://github.com/quintin-lee/Minefolio) (2026-11-10)
+- 🚀 Pushed to [quintin-lee/mcpkit-c](https://github.com/quintin-lee/mcpkit-c) (2026-11-10)
+- 🐛 Opened issue in [quintin-lee/csilk](https://github.com/quintin-lee/csilk) (2026-11-11)
+- 🚀 Pushed to [quintin-lee/cdsl](https://github.com/quintin-lee/cdsl) (2026-11-10)
 <!--END_SECTION:activity-->
 
 ## 🏆 GitHub Trophies
@@ -140,7 +141,7 @@
   <br/>
   
   <!--✍️QUOTE-START-->
-> Any fool can write code that a computer can understand. Good programmers write code that humans can understand. — Martin Fowler
+> Debugging is twice as hard as writing the code in the first place. — Brian Kernighan
 <!--✍️QUOTE-END-->
 </div>
 </details>
