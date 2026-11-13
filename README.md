@@ -114,8 +114,8 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-- 🚀 Pushed to [quintin-lee/Minefolio](https://github.com/quintin-lee/Minefolio) (2026-11-11)
 - 🚀 Pushed to [quintin-lee/csilk](https://github.com/quintin-lee/csilk) (2026-11-12)
+- 🚀 Pushed to [quintin-lee/Minefolio](https://github.com/quintin-lee/Minefolio) (2026-11-13)
 - 🚀 Pushed to [quintin-lee/mcpkit-c](https://github.com/quintin-lee/mcpkit-c) (2026-11-11)
 - 💬 Commented on issue in [quintin-lee/csilk](https://github.com/quintin-lee/csilk) (2026-11-11)
 - 🐛 Closed issue in [quintin-lee/csilk](https://github.com/quintin-lee/csilk) (2026-11-11)
@@ -142,7 +142,7 @@
   <br/>
   
   <!--✍️QUOTE-START-->
-> Code is like humor. When you have to explain it, it's bad. — Cory House
+> Any fool can write code that a computer can understand. Good programmers write code that humans can understand. — Martin Fowler
 <!--✍️QUOTE-END-->
 </div>
 </details>
