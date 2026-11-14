@@ -99,13 +99,13 @@
 ## 📂 Featured Projects
 
 <!-- START_SECTION:projects -->
+- [SnapSCAD](https://github.com/quintin-lee/SnapSCAD): Turn photos into parametric OpenSCAD 3D models in a snap. Visual Reverse Engineering & AI CAD Agent.
 - [csilk](https://github.com/quintin-lee/csilk): CSilk is a high-performance, modular server runtime and HTTP framework written in modern C (C23). It is designed for building low-latency network services, HTTP applications, AI-enabled services, workflow systems, and other long-running server-side applications.
 - [Minefolio](https://github.com/quintin-lee/Minefolio): A lightweight, self-hosted personal wealth and asset management platform for tracking assets, liabilities, transactions, income, expenses, and net worth.
 - [quintin-lee](https://github.com/quintin-lee/quintin-lee): No description
 - [mcpkit-c](https://github.com/quintin-lee/mcpkit-c): mcpkit-c is a modular C23 SDK and runtime for building MCP servers, clients, and interactive MCP Apps.
 - [cdsl](https://github.com/quintin-lee/cdsl): An AI-powered DSL rule engine framework in C with three-layer architecture (Syntax → Abstract → Execution), natural language translation, multi-metric scoring, and tri-state audit results.
 - [rivus-agent](https://github.com/quintin-lee/rivus-agent): A lightweight, durable, and extensible AI Agent runtime powered by Go and Eino ADK.
-- [cobalt](https://github.com/quintin-lee/cobalt): A Modern Object-Oriented Foundation Framework for C
 <!-- END_SECTION:projects -->
 
 <details>
@@ -114,11 +114,9 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
+- 🚀 Pushed to [quintin-lee/Minefolio](https://github.com/quintin-lee/Minefolio) (2026-11-12)
 - 🚀 Pushed to [quintin-lee/csilk](https://github.com/quintin-lee/csilk) (2026-11-12)
-- 🚀 Pushed to [quintin-lee/Minefolio](https://github.com/quintin-lee/Minefolio) (2026-11-13)
 - 🚀 Pushed to [quintin-lee/mcpkit-c](https://github.com/quintin-lee/mcpkit-c) (2026-11-11)
-- 💬 Commented on issue in [quintin-lee/csilk](https://github.com/quintin-lee/csilk) (2026-11-11)
-- 🐛 Closed issue in [quintin-lee/csilk](https://github.com/quintin-lee/csilk) (2026-11-11)
 <!--END_SECTION:activity-->
 
 ## 🏆 GitHub Trophies
@@ -142,7 +140,7 @@
   <br/>
   
   <!--✍️QUOTE-START-->
-> Any fool can write code that a computer can understand. Good programmers write code that humans can understand. — Martin Fowler
+> The only way to learn a new programming language is by writing programs in it. — Dennis Ritchie
 <!--✍️QUOTE-END-->
 </div>
 </details>
