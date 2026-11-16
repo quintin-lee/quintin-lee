@@ -114,11 +114,8 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-- 🚀 Pushed to [quintin-lee/csilk](https://github.com/quintin-lee/csilk) (2026-11-13)
-- 🚀 Pushed to [quintin-lee/Minefolio](https://github.com/quintin-lee/Minefolio) (2026-11-13)
-- ⭐ Starred [quintin-lee/sso](https://github.com/quintin-lee/sso) (2026-11-14)
-- ⭐ Starred [quintin-lee/SnapSCAD](https://github.com/quintin-lee/SnapSCAD) (2026-11-14)
-- ⭐ Starred [quintin-lee/shell-json](https://github.com/quintin-lee/shell-json) (2026-11-14)
+- 🚀 Pushed to [quintin-lee/Minefolio](https://github.com/quintin-lee/Minefolio) (2026-11-15)
+- 🚀 Pushed to [quintin-lee/csilk](https://github.com/quintin-lee/csilk) (2026-11-15)
 <!--END_SECTION:activity-->
 
 ## 🏆 GitHub Trophies
@@ -142,7 +139,7 @@
   <br/>
   
   <!--✍️QUOTE-START-->
-> Code is like humor. When you have to explain it, it's bad. — Cory House
+> Debugging is twice as hard as writing the code in the first place. — Brian Kernighan
 <!--✍️QUOTE-END-->
 </div>
 </details>
