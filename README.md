@@ -114,10 +114,9 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-- 🚀 Pushed to [quintin-lee/Minefolio](https://github.com/quintin-lee/Minefolio) (2026-11-20)
-- 🚀 Pushed to [quintin-lee/csilk](https://github.com/quintin-lee/csilk) (2026-11-18)
-- 🚀 Pushed to [quintin-lee/mcpkit-c](https://github.com/quintin-lee/mcpkit-c) (2026-11-19)
-- 🚀 Pushed to [quintin-lee/SnapSCAD](https://github.com/quintin-lee/SnapSCAD) (2026-11-16)
+- 🚀 Pushed to [quintin-lee/csilk](https://github.com/quintin-lee/csilk) (2026-11-19)
+- 🚀 Pushed to [quintin-lee/Minefolio](https://github.com/quintin-lee/Minefolio) (2026-11-19)
+- 🚀 Pushed to [quintin-lee/mcpkit-c](https://github.com/quintin-lee/mcpkit-c) (2026-11-20)
 <!--END_SECTION:activity-->
 
 ## 🏆 GitHub Trophies
@@ -141,7 +140,7 @@
   <br/>
   
   <!--✍️QUOTE-START-->
-> The best error message is the one that never shows up. — Thomas Fuchs
+> Simplicity is the soul of efficiency. — Austin Freeman
 <!--✍️QUOTE-END-->
 </div>
 </details>
