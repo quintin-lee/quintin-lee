@@ -114,10 +114,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
+- 🚀 Pushed to [quintin-lee/mcpkit-c](https://github.com/quintin-lee/mcpkit-c) (2026-11-24)
+- 🚀 Pushed to [quintin-lee/Minefolio](https://github.com/quintin-lee/Minefolio) (2026-11-24)
+- 🚀 Pushed to [quintin-lee/csilk](https://github.com/quintin-lee/csilk) (2026-11-24)
 - 🚀 Pushed to [quintin-lee/SnapSCAD](https://github.com/quintin-lee/SnapSCAD) (2026-11-22)
-- 🚀 Pushed to [quintin-lee/csilk](https://github.com/quintin-lee/csilk) (2026-11-23)
-- 🚀 Pushed to [quintin-lee/mcpkit-c](https://github.com/quintin-lee/mcpkit-c) (2026-11-23)
-- 🚀 Pushed to [quintin-lee/Minefolio](https://github.com/quintin-lee/Minefolio) (2026-11-23)
 <!--END_SECTION:activity-->
 
 ## 🏆 GitHub Trophies
@@ -141,7 +141,7 @@
   <br/>
   
   <!--✍️QUOTE-START-->
-> Debugging is twice as hard as writing the code in the first place. — Brian Kernighan
+> Talk is cheap. Show me the code. — Linus Torvalds
 <!--✍️QUOTE-END-->
 </div>
 </details>
