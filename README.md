@@ -114,8 +114,8 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
+- 🚀 Pushed to [quintin-lee/csilk](https://github.com/quintin-lee/csilk) (2026-11-26)
 - 🚀 Pushed to [quintin-lee/Minefolio](https://github.com/quintin-lee/Minefolio) (2026-11-25)
-- 🚀 Pushed to [quintin-lee/csilk](https://github.com/quintin-lee/csilk) (2026-11-25)
 - 🚀 Pushed to [quintin-lee/SnapSCAD](https://github.com/quintin-lee/SnapSCAD) (2026-11-25)
 <!--END_SECTION:activity-->
 
@@ -140,7 +140,7 @@
   <br/>
   
   <!--✍️QUOTE-START-->
-> The best error message is the one that never shows up. — Thomas Fuchs
+> In C, it is easy to shoot yourself in the foot. In C++, it's harder, but when you do, you blow your whole leg off. — Bjarne Stroustrup
 <!--✍️QUOTE-END-->
 </div>
 </details>
